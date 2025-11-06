@@ -21,11 +21,11 @@ The goal of this community repository is to make it easy for contributors, users
 
 ## 🔗 Projects Covered
 
-| Project                                                                  | Description                                                                |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| [**rungs Studio**](https://github.com/rungs-dev/rungs)                   | Main IDE for PLC programming with Structured Text editor and AOI execution |
-| [**rungs Docs**](https://github.com/rungs-dev/rungs/tree/main/apps/docs) | Documentation and tutorials for rungs.dev built with Docusaurus            |
-| **Community Discussions**                                                | Open Q&A, feedback threads, and roadmap proposals                          |
+| Project                                        | Description                                                                |
+| ---------------------------------------------- | -------------------------------------------------------------------------- |
+| [**Rungs Studio**](https://studio.rungs.dev)   | Main IDE for PLC programming with Structured Text editor and AOI execution |
+| [**Rungs Docs**](https://rungs.dev/docs/intro) | Documentation and tutorials for rungs.dev built with Docusaurus            |
+| **Community Discussions**                      | Open Q&A, feedback threads, and roadmap proposals                          |
 
 ---
 
@@ -67,6 +67,7 @@ We value respectful, inclusive, and productive collaboration. Please follow our 
 - **Studio:** [https://studio.rungs.dev](https://studio.rungs.dev)
 - **Docs:** [https://rungs.dev/docs/intro](https://rungs.dev/docs/intro)
 - **GitHub Discussions:** [Join the conversation →](https://github.com/rungs-dev/community/discussions)
+- **Issues:** [Report or track issues →](https://github.com/rungs-dev/community/issues)
 - **Email:** [support@rungs.dev](mailto:support@rungs.dev)
 
 ---
