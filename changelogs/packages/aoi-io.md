@@ -1,5 +1,15 @@
 # @repo/aoi-io
 
+## 0.1.1
+
+### Patch Changes
+
+- 0f5dc05: Fix AOI import/export parser and serializer to support default values for local tags and array elements
+- a8ae6a7: Fix DSL parser logic indentation handling
+- e5c8289: Fix DSL import for local tags and numeric defaults
+- Updated dependencies [0f5dc05]
+  - @repo/plc-core@0.1.1
+
 ## 0.1.0
 
 ### Minor Changes
