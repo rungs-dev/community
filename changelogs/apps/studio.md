@@ -1,5 +1,24 @@
 # studio
 
+## 0.2.0
+
+### Minor Changes
+
+- 2257902: Enhance tag value parsing and validation
+- f747bfa: Migrate state management from Redux to Zustand
+- d213c22: Improve AOI file import/export functionality
+- 5fde104: Enhance AOI schema and validation
+- b71f693: Integrate Zod for AOI validation
+
+### Patch Changes
+
+- Updated dependencies [2257902]
+- Updated dependencies [d213c22]
+- Updated dependencies [5fde104]
+- Updated dependencies [b71f693]
+  - @repo/plc-core@0.2.0
+  - @repo/aoi-io@0.2.0
+
 ## 0.1.1
 
 ### Patch Changes

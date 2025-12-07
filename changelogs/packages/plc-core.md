@@ -1,5 +1,13 @@
 # @repo/plc-core
 
+## 0.2.0
+
+### Minor Changes
+
+- 2257902: Enhance tag value parsing and validation
+- 5fde104: Enhance AOI schema and validation
+- b71f693: Integrate Zod for AOI validation
+
 ## 0.1.1
 
 ### Patch Changes

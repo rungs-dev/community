@@ -1,5 +1,20 @@
 # @repo/aoi-io
 
+## 0.2.0
+
+### Minor Changes
+
+- 2257902: Enhance tag value parsing and validation
+- d213c22: Improve AOI file import/export functionality
+- 5fde104: Enhance AOI schema and validation
+
+### Patch Changes
+
+- Updated dependencies [2257902]
+- Updated dependencies [5fde104]
+- Updated dependencies [b71f693]
+  - @repo/plc-core@0.2.0
+
 ## 0.1.1
 
 ### Patch Changes
