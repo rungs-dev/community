@@ -1,5 +1,11 @@
 # studio
 
+## 0.3.1
+
+### Patch Changes
+
+- 825b75d: Implement gate screen for mobile devices
+
 ## 0.3.0
 
 ### Minor Changes
