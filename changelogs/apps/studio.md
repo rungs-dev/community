@@ -1,5 +1,15 @@
 # studio
 
+## 0.3.0
+
+### Minor Changes
+
+- 193da57: Implement AOI sharing functionality
+
+### Patch Changes
+
+- 692f1ae: Add dialog for creating AOIs with user-defined names
+
 ## 0.2.0
 
 ### Minor Changes
