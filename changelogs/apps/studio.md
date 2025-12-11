@@ -1,5 +1,11 @@
 # studio
 
+## 0.3.2
+
+### Patch Changes
+
+- b024152: Add PostHog custom events
+
 ## 0.3.1
 
 ### Patch Changes
