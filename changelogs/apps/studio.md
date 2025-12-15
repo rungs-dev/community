@@ -1,5 +1,12 @@
 # studio
 
+## 0.3.3
+
+### Patch Changes
+
+- fa36f19: Add PostHog React error tracking
+- 32b91ae: Open AOI trend when starting simulation
+
 ## 0.3.2
 
 ### Patch Changes
