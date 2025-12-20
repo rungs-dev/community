@@ -1,5 +1,12 @@
 # studio
 
+## 0.3.4
+
+### Patch Changes
+
+- e6091fe: Replace onboarding UI with automatic AOI bootstrap
+- 1bdd209: Open AOI trend when starting simulation only for new users
+
 ## 0.3.3
 
 ### Patch Changes
