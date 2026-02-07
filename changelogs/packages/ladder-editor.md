@@ -1,4 +1,4 @@
-# @repo/plc-compiler
+# @repo/ladder-editor
 
 ## 0.2.0
 
@@ -12,14 +12,3 @@
   - Simulation integration with runtime energization highlighting and diagnostics
   - Shared ladder UI component library
   - Example LD AOIs: MotorControl, TrafficLight, TankLevel, Cylinder
-
-### Patch Changes
-
-- Updated dependencies [19a0828]
-  - @repo/plc-core@0.3.0
-
-## 0.1.0
-
-### Minor Changes
-
-- 8d954ba: Initial release
