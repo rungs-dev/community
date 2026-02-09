@@ -1,5 +1,18 @@
 # studio
 
+## 0.4.1
+
+### Patch Changes
+
+- ac04f00: Fix dragged ladder element display
+  Implement undo/redo
+- d5f17a5: Add tag autocomplete
+- 09c8ce5: Implement copy/paste
+- Updated dependencies [ac04f00]
+- Updated dependencies [d5f17a5]
+- Updated dependencies [09c8ce5]
+  - @repo/ladder-editor@0.2.1
+
 ## 0.4.0
 
 ### Minor Changes
