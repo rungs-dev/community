@@ -1,5 +1,14 @@
 # @repo/plc-compiler
 
+## 0.2.1
+
+### Patch Changes
+
+- 377f9cc: Add LIMIT instruction
+- 0af1eb4: Implement warnings for repeated timer
+- f171c1f: Extend LD parser syntax support
+- d1f9349: Move ST/LD compile to a timeout-backed worker to prevent UI freezes
+
 ## 0.2.0
 
 ### Minor Changes
@@ -12,11 +21,6 @@
   - Simulation integration with runtime energization highlighting and diagnostics
   - Shared ladder UI component library
   - Example LD AOIs: MotorControl, TrafficLight, TankLevel, Cylinder
-
-### Patch Changes
-
-- Updated dependencies [19a0828]
-  - @repo/plc-core@0.3.0
 
 ## 0.1.0
 

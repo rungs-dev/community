@@ -1,5 +1,15 @@
 # @repo/ladder-editor
 
+## 0.2.2
+
+### Patch Changes
+
+- 377f9cc: Add LIMIT instruction
+- 5862ce2: Auto-select next element after deletion
+- f171c1f: Extend LD parser syntax support
+- 30af30c: Add type aware create tag dialog in ladder-editor
+- be58116: Improve ladder copy-paste functionality
+
 ## 0.2.1
 
 ### Patch Changes

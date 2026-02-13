@@ -1,5 +1,19 @@
 # studio
 
+## 0.4.2
+
+### Patch Changes
+
+- ee3e1ef: Fix Monaco init
+- 591e0ce: Reset editor state on example AOI load
+- 377f9cc: Add LIMIT instruction
+- 5862ce2: Auto-select next element after deletion
+- 0af1eb4: Implement warnings for repeated timer
+- f171c1f: Extend LD parser syntax support
+- d1f9349: Move ST/LD compile to a timeout-backed worker to prevent UI freezes
+- 30af30c: Add type aware create tag dialog in ladder-editor
+- be58116: Improve ladder copy-paste functionality
+
 ## 0.4.1
 
 ### Patch Changes
@@ -8,10 +22,6 @@
   Implement undo/redo
 - d5f17a5: Add tag autocomplete
 - 09c8ce5: Implement copy/paste
-- Updated dependencies [ac04f00]
-- Updated dependencies [d5f17a5]
-- Updated dependencies [09c8ce5]
-  - @repo/ladder-editor@0.2.1
 
 ## 0.4.0
 
@@ -25,14 +35,6 @@
   - Simulation integration with runtime energization highlighting and diagnostics
   - Shared ladder UI component library
   - Example LD AOIs: MotorControl, TrafficLight, TankLevel, Cylinder
-
-### Patch Changes
-
-- Updated dependencies [19a0828]
-  - @repo/ladder-editor@0.2.0
-  - @repo/plc-compiler@0.2.0
-  - @repo/plc-core@0.3.0
-  - @repo/aoi-io@0.2.1
 
 ## 0.3.5
 
@@ -86,15 +88,6 @@
 - 5fde104: Enhance AOI schema and validation
 - b71f693: Integrate Zod for AOI validation
 
-### Patch Changes
-
-- Updated dependencies [2257902]
-- Updated dependencies [d213c22]
-- Updated dependencies [5fde104]
-- Updated dependencies [b71f693]
-  - @repo/plc-core@0.2.0
-  - @repo/aoi-io@0.2.0
-
 ## 0.1.1
 
 ### Patch Changes
@@ -102,11 +95,6 @@
 - 0ba66c8: Fix trend's tooltip and markers positioning
 - eb5bafa: Add version info
 - 58d55b8: Temporarily disable the local "My AOIs"
-- Updated dependencies [0f5dc05]
-- Updated dependencies [a8ae6a7]
-- Updated dependencies [e5c8289]
-  - @repo/plc-core@0.1.1
-  - @repo/aoi-io@0.1.1
 
 ## 0.1.0
 
@@ -114,10 +102,3 @@
 
 - 8d954ba: Initial release
 
-### Patch Changes
-
-- Updated dependencies [8d954ba]
-  - @repo/plc-core@0.1.0
-  - @repo/aoi-io@0.1.0
-  - @repo/ladder-ui@0.1.0
-  - @repo/plc-compiler@0.1.0
