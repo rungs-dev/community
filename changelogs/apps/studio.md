@@ -1,5 +1,12 @@
 # studio
 
+## 0.4.3
+
+### Patch Changes
+
+- 48a83bc: UI improvements
+- f71a6cf: Rebuilt tag editor with undo/redo and row selection
+
 ## 0.4.2
 
 ### Patch Changes
@@ -101,4 +108,3 @@
 ### Minor Changes
 
 - 8d954ba: Initial release
-
