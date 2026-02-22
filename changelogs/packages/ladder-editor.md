@@ -1,5 +1,11 @@
 # @repo/ladder-editor
 
+## 0.2.4
+
+### Patch Changes
+
+- 828a930: Add LIMIT to ladder-editor toolbar
+
 ## 0.2.3
 
 ### Patch Changes
