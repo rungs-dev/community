@@ -1,5 +1,11 @@
 # studio
 
+## 0.4.4
+
+### Patch Changes
+
+- f6e0cb2: Add rung comments
+
 ## 0.4.3
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @repo/ladder-editor
 
+## 0.2.3
+
+### Patch Changes
+
+- f6e0cb2: Add rung comments
+
 ## 0.2.2
 
 ### Patch Changes

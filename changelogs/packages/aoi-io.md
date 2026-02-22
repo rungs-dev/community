@@ -1,5 +1,11 @@
 # @repo/aoi-io
 
+## 0.2.2
+
+### Patch Changes
+
+- f6e0cb2: Add rung comments
+
 ## 0.2.0
 
 ### Minor Changes
@@ -21,4 +27,3 @@
 ### Minor Changes
 
 - 8d954ba: Initial release
-

@@ -1,5 +1,12 @@
 # docs
 
+## 0.3.0
+
+### Minor Changes
+
+- 7fa85d7: Add Privacy Policy and Terms and Conditions
+- 80c999f: Introduce feature showcase
+
 ## 0.2.0
 
 ### Minor Changes
