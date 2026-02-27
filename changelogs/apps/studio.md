@@ -1,5 +1,12 @@
 # studio
 
+## 0.4.6
+
+### Patch Changes
+
+- aebfc7a: Add dark mode
+- 8257a3b: Improve ladder simulation interface
+
 ## 0.4.5
 
 ### Patch Changes

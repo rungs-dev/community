@@ -1,5 +1,13 @@
 # @repo/ladder-editor
 
+## 0.3.0
+
+### Minor Changes
+
+- 1ddd8be: Implement theme support
+- 9b2b8b9: Add static ladder diagram components
+- 8257a3b: Improve ladder simulation interface
+
 ## 0.2.4
 
 ### Patch Changes
