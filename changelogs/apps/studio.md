@@ -1,5 +1,15 @@
 # studio
 
+## 0.4.7
+
+### Patch Changes
+
+- a201f03: Add pause and step controls to simulation
+- fbe308e: Change library AOI items to open on single click instead of double click
+- de25774: Fix undo/redo functionality in Ladder editor
+- 0c595f4: Fix tag editor creating unnecessary undo steps when selecting rows or saving without changes
+- 07d505d: Renaming a tag now updates its name in all editors
+
 ## 0.4.6
 
 ### Patch Changes
