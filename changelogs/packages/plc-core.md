@@ -1,5 +1,11 @@
 # @repo/plc-core
 
+## 0.4.0
+
+### Minor Changes
+
+- 748a1ad: Introduce YAML-based test vectors for AOIs
+
 ## 0.3.0
 
 ### Minor Changes

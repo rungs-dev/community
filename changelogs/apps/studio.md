@@ -1,5 +1,17 @@
 # studio
 
+## 0.5.0
+
+### Minor Changes
+
+- 748a1ad: Introduce YAML-based test vectors for AOIs
+
+### Patch Changes
+
+- b8bbbea: Implement quick fix functionality for tag creation
+- d208880: Unify status panel into terminal-style log stream
+- 1c871ba: Add yellow color for paused state visualization in ladder-editor
+
 ## 0.4.7
 
 ### Patch Changes

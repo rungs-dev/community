@@ -1,5 +1,11 @@
 # docs
 
+## 0.4.0
+
+### Minor Changes
+
+- bde073d: Add documentation for AOI unit tests
+
 ## 0.3.0
 
 ### Minor Changes

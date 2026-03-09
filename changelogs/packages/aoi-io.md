@@ -1,5 +1,16 @@
 # @repo/aoi-io
 
+## 0.3.0
+
+### Minor Changes
+
+- 748a1ad: Introduce YAML-based test vectors foir AOIs
+
+### Patch Changes
+
+- Updated dependencies [748a1ad]
+  - @repo/plc-core@0.4.0
+
 ## 0.2.2
 
 ### Patch Changes

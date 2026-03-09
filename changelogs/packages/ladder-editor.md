@@ -1,5 +1,17 @@
 # @repo/ladder-editor
 
+## 0.4.0
+
+### Minor Changes
+
+- 748a1ad: Introduce YAML-based test vectors foir AOIs
+
+### Patch Changes
+
+- 1c871ba: Add yellow color for paused state visualization in ladder-editor
+- Updated dependencies [748a1ad]
+  - @repo/plc-core@0.4.0
+
 ## 0.3.1
 
 ### Patch Changes
