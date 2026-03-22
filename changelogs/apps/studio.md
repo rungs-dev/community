@@ -1,5 +1,11 @@
 # studio
 
+## 0.5.1
+
+### Patch Changes
+
+- 9c4ac54: Minor bug fixes
+
 ## 0.5.0
 
 ### Minor Changes
