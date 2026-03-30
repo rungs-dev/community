@@ -1,5 +1,15 @@
 # studio
 
+## 0.6.0
+
+### Minor Changes
+
+- 17171be: Add Relay AI Chat
+
+### Patch Changes
+
+- df92733: Add links to exercises.rungs.dev
+
 ## 0.5.1
 
 ### Patch Changes

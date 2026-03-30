@@ -1,5 +1,11 @@
 # docs
 
+## 0.4.1
+
+### Patch Changes
+
+- df92733: Add links to exercises.rungs.dev
+
 ## 0.4.0
 
 ### Minor Changes
