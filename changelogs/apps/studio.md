@@ -1,5 +1,11 @@
 # studio
 
+## 0.6.1
+
+### Patch Changes
+
+- 74ba6cd: Relay assistant improvements
+
 ## 0.6.0
 
 ### Minor Changes

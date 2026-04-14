@@ -1,5 +1,11 @@
 # @repo/plc-compiler
 
+## 0.2.4
+
+### Patch Changes
+
+- aa88068: Enforce LD rungs end with output instruction
+
 ## 0.2.3
 
 ### Patch Changes
