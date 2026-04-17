@@ -1,5 +1,11 @@
 # @repo/ladder-editor
 
+## 0.5.0
+
+### Minor Changes
+
+- d6f9f2d: Add tooltip to toolbar instructions
+
 ## 0.4.0
 
 ### Minor Changes

@@ -1,5 +1,13 @@
 # studio
 
+## 0.6.2
+
+### Patch Changes
+
+- d6f9f2d: Add tooltip to ladder toolbar
+- Updated dependencies [d6f9f2d]
+  - @repo/ladder-editor@0.5.0
+
 ## 0.6.1
 
 ### Patch Changes

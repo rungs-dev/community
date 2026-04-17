@@ -1,5 +1,16 @@
 # docs
 
+## 1.0.0
+
+### Major Changes
+
+- c02f030: Add Tags and Ladder Logic documentation.
+
+### Patch Changes
+
+- Updated dependencies [d6f9f2d]
+  - @repo/ladder-editor@0.5.0
+
 ## 0.4.1
 
 ### Patch Changes
