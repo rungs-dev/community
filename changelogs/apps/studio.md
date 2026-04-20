@@ -1,5 +1,11 @@
 # studio
 
+## 0.6.3
+
+### Patch Changes
+
+- Fix ladder-editor rendering issue
+
 ## 0.6.2
 
 ### Patch Changes
