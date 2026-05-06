@@ -1,5 +1,10 @@
 # @repo/plc-compiler
 
+## 0.4.0
+
+- Warn when an OTE coil and another coil target the same tag in ladder routines.
+- Flag every place a timer is reused in a routine, not just the second occurrence.
+
 ## 0.3.0
 
 - Show errors in ladder and structured text when an array tag like `PhaseTimer.ACC` is used without an index.
@@ -15,8 +20,6 @@
 ## 0.2.4
 
 - Enforce LD rungs end with output instruction
-
-## 0.2.3
 
 ## 0.2.2
 

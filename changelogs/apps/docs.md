@@ -1,5 +1,12 @@
 # docs
 
+## 1.2.0
+
+- Add 'AI-assisted PLC learning' blog post.
+- Add a Relay AI assistant guide to the docs covering what context Relay reads, common prompts, and an FAQ.
+- Feature Relay AI assistant on the rungs.dev homepage
+- Update privacy and terms to cover the Relay AI assistant: what's sent, where it goes, and how prompts are retained.
+
 ## 1.1.0
 
 - Model numeric semantics on Studio 5000 Logix Designer (banker rounding, destination-driven division, 32-bit REAL).

@@ -1,5 +1,12 @@
 # studio
 
+## 0.7.1
+
+- Warn when an OTE coil and another coil target the same tag in ladder routines.
+- Fix thumbs up/down feedback on Relay replies.
+- Relay chat improvements
+- Flag every place a timer is reused in a routine, not just the second occurrence.
+
 ## 0.7.0
 
 - Show errors in ladder and structured text when an array tag like `PhaseTimer.ACC` is used without an index.
