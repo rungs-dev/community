@@ -1,5 +1,11 @@
 # studio-assist
 
+## 0.1.4
+
+- Add an optional Description to your AOI — shown in the print header and surfaced to Relay.
+- Stop Relay from suggesting you delete the canned tests on seeded example AOIs.
+- Move Studio context out of the system prompt into the user message via a server-rendered `<studio-context>` block.
+
 ## 0.1.3
 
 - Relay chat improvements

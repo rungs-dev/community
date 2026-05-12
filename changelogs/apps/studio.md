@@ -1,5 +1,10 @@
 # studio
 
+## 0.7.2
+
+- Add an optional Description to your AOI — shown in the print header and surfaced to Relay.
+- Relay improvements.
+
 ## 0.7.1
 
 - Warn when an OTE coil and another coil target the same tag in ladder routines.
