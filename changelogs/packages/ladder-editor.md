@@ -1,11 +1,12 @@
 # @repo/ladder-editor
 
+## 0.6.1
+
 ## 0.6.0
 
 - Support array index expression operands like `BoolArray[(I + 1) * 2]` in ladder instructions, with caret-preserving input and no mid-expression wrapping.
 - Edit tag defaults from block instructions
 - Improve tag autocomplete in the ladder and structured text editors.
-
 - Add ladder-editor region-tier keyboard editing
 - Internal cleanup of ladder context menu and instruction tooltip components; no user-visible change.
 - Print AOIs from the toolbar (or Ctrl/Cmd+P): tags, ladder routines with defaults and error highlights, ST, and tests.
@@ -18,7 +19,6 @@
 ## 0.4.0
 
 - Introduce YAML-based test vectors foir AOIs
-
 - Add yellow color for paused state visualization in ladder-editor
 
 ## 0.3.1

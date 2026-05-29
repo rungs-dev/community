@@ -1,5 +1,12 @@
 # studio
 
+## 0.8.0
+
+- Show a cookie banner so you can accept or reject product analytics
+- Sort the Tags table by clicking the Name, Data Type, or Usage column header
+- Sign in to Studio with your Google or GitHub account
+- Groundwork for the upcoming Rungs Learn launch: exercise mode
+
 ## 0.7.2
 
 - Add an optional Description to your AOI — shown in the print header and surfaced to Relay.
@@ -45,7 +52,6 @@
 ## 0.6.0
 
 - Add Relay AI Chat
-
 - Add links to exercises.rungs.dev
 
 ## 0.5.1
@@ -55,7 +61,6 @@
 ## 0.5.0
 
 - Introduce YAML-based test vectors for AOIs
-
 - Implement quick fix functionality for tag creation
 - Unify status panel into terminal-style log stream
 - Add yellow color for paused state visualization in ladder-editor
@@ -141,7 +146,6 @@
 ## 0.3.0
 
 - Implement AOI sharing functionality
-
 - Add dialog for creating AOIs with user-defined names
 
 ## 0.2.0

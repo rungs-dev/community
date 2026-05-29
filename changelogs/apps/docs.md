@@ -1,5 +1,9 @@
 # docs
 
+## 1.3.0
+
+- Show a cookie banner so you can accept or reject product analytics
+
 ## 1.2.0
 
 - Add 'AI-assisted PLC learning' blog post.

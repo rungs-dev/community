@@ -1,12 +1,15 @@
 # @repo/plc-core
 
+## 0.6.0
+
+- Add exercise mode: open a practice exercise with its brief and runnable, locked acceptance tests
+
 ## 0.5.0
 
 - Show errors in ladder and structured text when an array tag like `PhaseTimer.ACC` is used without an index.
 - Edit tag defaults from block instructions
 - Accept negative scientific REAL literals (`-1.5e1`) in ladder block operands; reject `.5e2` and `+1.5e0`
 - Improve tag autocomplete in the ladder and structured text editors.
-
 - Accept data type names like `DINT`, `BOOL`, `TIMER`, `FBD_TIMER`, and `FBD_COUNTER` as tag names, matching Studio 5000 Logix Designer®.
 - New `FBD_TIMER` and `FBD_COUNTER` tags now default `.EnableIn` to 1, matching Studio 5000 Logix Designer®.
 

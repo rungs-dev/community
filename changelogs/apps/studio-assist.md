@@ -1,5 +1,13 @@
 # studio-assist
 
+## 0.1.5
+
+- Teach Relay the `Cfg_` prefix for design-time parameters like preset times and limits, separate from live `In_` inputs
+- Teach Relay the real toolbar button names so it stops telling you to click `Start simulation` when you want `Test`
+- Make Relay's answers more consistent — its rules now live in one stable place instead of being re-sent on every message
+- Teach Relay the PlantPAx tag prefixes (In*, Out*, Sts*, Tmr*, Cnt*, Val*, Wrk\_) so it stops suggesting prefix-less names
+- Add exercise mode: open a practice exercise with its brief and runnable, locked acceptance tests
+
 ## 0.1.4
 
 - Add an optional Description to your AOI — shown in the print header and surfaced to Relay.
