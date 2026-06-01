@@ -1,5 +1,10 @@
 # studio
 
+## 0.8.1
+
+- Rename Studio's Exercises sidebar link to Learn and point it to the new learn.rungs.dev catalog
+- Patch Relay giving inaccurate guidance on Studio's simulation timing, compiler errors, and ladder edits
+
 ## 0.8.0
 
 - Show a cookie banner so you can accept or reject product analytics

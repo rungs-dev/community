@@ -1,5 +1,9 @@
 # exercises
 
+## 0.2.3
+
+- Show a notice on the old exercise pages pointing learners to the new catalog at learn.rungs.dev
+
 ## 0.2.2
 
 ## 0.2.1

@@ -1,5 +1,9 @@
 # relay-agent-adk
 
+## 0.0.2
+
+- Generate exercises whose Cfg\_ defaults, spec, and test values agree, and use time-based waits for timer tests
+
 ## 0.0.1
 
 - Collapse the multi-agent architecture into a single agent with flat validator tools — eliminates the cross-sub-agent stale-state bug class and lets the model reason across spec/tests/code in one context.

@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.1.6
+
+- Patch Relay giving inaccurate guidance on Studio's simulation timing, compiler errors, and ladder edits
+
 ## 0.1.5
 
 - Teach Relay the `Cfg_` prefix for design-time parameters like preset times and limits, separate from live `In_` inputs
