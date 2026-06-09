@@ -1,5 +1,9 @@
 # exercises
 
+## 0.2.4
+
+- Add a cookie-consent banner to the exercises site
+
 ## 0.2.3
 
 - Show a notice on the old exercise pages pointing learners to the new catalog at learn.rungs.dev

@@ -1,5 +1,7 @@
 # @repo/test-runner
 
+## 0.1.5
+
 ## 0.1.4
 
 - Internal: move the PLC exercise specs into a shared catalog package with runtime validation

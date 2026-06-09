@@ -1,5 +1,11 @@
 # studio-assist
 
+## 0.1.7
+
+- Stop Relay replying with raw ladder DSL — it now describes rung changes in plain words
+- Stop Relay flagging valid Ladder rungs as errors and telling you to delete semicolons
+- Add Scan Cycle docs and teach Relay to explain the one-scan delay from rung and statement order
+
 ## 0.1.6
 
 - Patch Relay giving inaccurate guidance on Studio's simulation timing, compiler errors, and ladder edits

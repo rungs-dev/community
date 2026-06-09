@@ -1,5 +1,14 @@
 # studio
 
+## 0.8.2
+
+- Fix ladder Timer Off Delay (TOF) so its output turns off exactly at the preset instead of one scan late
+- Stop Relay replying with raw ladder DSL — it now describes rung changes in plain words
+- Stop Relay flagging valid Ladder rungs as errors and telling you to delete semicolons
+- Add Scan Cycle docs and teach Relay to explain the one-scan delay from rung and statement order
+- Run Structured Text timers and counter whenever they are called; setting EnableIn to 0 no longer disables them
+- Show the Timer Off Delay with Reset (TOFR) .ACC value counting up to the preset instead of down
+
 ## 0.8.1
 
 - Rename Studio's Exercises sidebar link to Learn and point it to the new learn.rungs.dev catalog

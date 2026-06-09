@@ -1,5 +1,13 @@
 # docs
 
+## 1.4.0
+
+- Add Scan Cycle docs and teach Relay to explain the one-scan delay from rung and statement order
+- Measure usage anonymously without cookies when you decline analytics
+- Point the Exercises link to the new Learn site and Community to GitHub Discussions
+- Add Practice links from Ladder instruction docs to matching exercises in Learn
+- Clarify in the Privacy Policy and Terms that we may read exercise snapshots only to fix Service issues
+
 ## 1.3.0
 
 - Show a cookie banner so you can accept or reject product analytics

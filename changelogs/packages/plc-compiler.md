@@ -1,5 +1,11 @@
 # @repo/plc-compiler
 
+## 0.4.2
+
+- Fix ladder Timer Off Delay (TOF) so its output turns off exactly at the preset instead of one scan late
+- Run Structured Text timers and counter whenever they are called; setting EnableIn to 0 no longer disables them
+- Show the Timer Off Delay with Reset (TOFR) .ACC value counting up to the preset instead of down
+
 ## 0.4.1
 
 ## 0.4.0
