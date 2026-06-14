@@ -1,5 +1,11 @@
 # learn
 
+## 0.5.0
+
+- Add Paddle-powered Plus checkout for the exercise paywall
+- Add ten exercises and reorder the catalog so concepts build on each other — 40 exercises now playable
+- Add nine exercises spanning XOR logic, edge detection, timer patterns, run-time tracking, and configurable scaling
+
 ## 0.4.0
 
 - Add the One-Scan Delay exercise: one lamp follows a button instantly, another follows it one scan later

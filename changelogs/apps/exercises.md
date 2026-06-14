@@ -1,5 +1,7 @@
 # exercises
 
+## 0.2.5
+
 ## 0.2.4
 
 - Add a cookie-consent banner to the exercises site

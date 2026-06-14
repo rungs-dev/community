@@ -1,5 +1,9 @@
 # studio
 
+## 0.8.3
+
+- Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
+
 ## 0.8.2
 
 - Fix ladder Timer Off Delay (TOF) so its output turns off exactly at the preset instead of one scan late

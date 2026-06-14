@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.1.8
+
+- Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
+
 ## 0.1.7
 
 - Stop Relay replying with raw ladder DSL — it now describes rung changes in plain words

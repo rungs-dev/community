@@ -1,5 +1,9 @@
 # docs
 
+## 1.4.1
+
+- Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
+
 ## 1.4.0
 
 - Add Scan Cycle docs and teach Relay to explain the one-scan delay from rung and statement order

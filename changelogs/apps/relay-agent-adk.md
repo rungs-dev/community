@@ -1,5 +1,12 @@
 # relay-agent-adk
 
+## 0.0.4
+
+- Tighten exercise-builder prompt: honest test names, nonzero input defaults, full-cycle tests for stateful outputs
+- Count `hold` assertions toward output coverage so tests asserting an output only via `hold` are accepted
+- Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
+- Run AOI tests through one shared runner everywhere — `runTestVectors` is now async with a pluggable executor
+
 ## 0.0.3
 
 ## 0.0.2
