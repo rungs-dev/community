@@ -1,5 +1,9 @@
 # studio
 
+## 0.8.4
+
+- Improve Relay chat: explain ladder logic in plain terms, and suggest a new AOI when your goal doesn't fit the exercise
+
 ## 0.8.3
 
 - Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
