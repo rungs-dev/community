@@ -1,5 +1,9 @@
 # docs
 
+## 1.5.0
+
+- Add 'Why Relay reads your PLC logic better than ChatGPT' blog post
+
 ## 1.4.1
 
 - Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step

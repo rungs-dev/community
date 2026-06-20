@@ -1,5 +1,9 @@
 # learn
 
+## 0.5.1
+
+- Edit hero section
+
 ## 0.5.0
 
 - Add Paddle-powered Plus checkout for the exercise paywall
