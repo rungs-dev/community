@@ -1,5 +1,10 @@
 # studio-assist
 
+## 0.2.1
+
+- Improve Relay's guidance on ladder timers, comparisons, and timed logic in Structured Text
+- Show Relay's thinking while it prepares an answer, with full thoughts on click
+
 ## 0.2.0
 
 - Improve Relay chat: explain ladder logic in plain terms, and suggest a new AOI when your goal doesn't fit the exercise

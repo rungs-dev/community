@@ -1,5 +1,9 @@
 # docs
 
+## 1.6.0
+
+- Add blog post on which AI models write the best Ladder Logic and Structured Text, and why Relay runs on Gemini
+
 ## 1.5.0
 
 - Add 'Why Relay reads your PLC logic better than ChatGPT' blog post

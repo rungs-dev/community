@@ -1,5 +1,9 @@
 # studio
 
+## 0.8.5
+
+- Show Relay's thinking while it prepares an answer, with full thoughts on click
+
 ## 0.8.4
 
 - Improve Relay chat: explain ladder logic in plain terms, and suggest a new AOI when your goal doesn't fit the exercise
