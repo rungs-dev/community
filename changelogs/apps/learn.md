@@ -1,5 +1,7 @@
 # learn
 
+## 0.6.1
+
 ## 0.6.0
 
 - Add a Groups option on Pricing to request custom plans for classes, teams, and hiring

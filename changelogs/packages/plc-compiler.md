@@ -1,5 +1,30 @@
 # @repo/plc-compiler
 
+## 0.5.0
+
+- New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
+- Add Ladder Logic AND, OR, XOR, NOT bitwise blocks and a Move/Logical toolbar tab
+- Add Ladder Logic MVM, CLR, and BTD blocks to the Move/Logical tab
+- Major faults now stop the scan: array subscript errors and negative timer presets abort at the faulting instruction
+- Add NOP, AFI, and MOD ladder instructions
+- Add Logix-style prescan scan mode; ONS and counter edges arm and timers reset so first-scan pulses match the controller
+- ST no longer accepts TRUE/FALSE literals, matching Logix®: BOOL values are 1 or 0
+- ST AND/OR/XOR/NOT are bitwise on numeric operands, matching Logix®; & synonym pinned; bitwise legal in subscripts
+- CTUD baselines its edge memory on first execution, so an enable already high never counts as a rise
+- Centralize data-type categories, ranges, and promotion rules in one registry
+- Fix DINT math to wrap at 32 bits like a real controller, including MUL overflow and mid-expression results
+- Analyzers and codegen read instruction operands from the per-language registry forms
+- Show an error when a ladder timer (TON, TOF, RTO) runs with a negative PRE or ACC
+- Runaway ST loops (WHILE/REPEAT/FOR) now stop after 1,000,000 iterations per scan with a clear diagnostic
+- Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
+- Derive ladder timer, counter, and coil mnemonic sets from the instruction registry
+- Move timer and counter instruction semantics into one shared library used by both LD and ST
+- Fix EXIT in Structured Text to stop only the innermost loop instead of ending the whole routine
+- Catch mistakes in Structured Text math functions like ABS and SIN as you type them instead of when the program runs
+- ST `MOD` by zero now returns 0 and `MOD` accepts REAL operands, matching observed Logix controller behavior
+- Structured Text timers and counters ignore runtime .ACC writes, matching Logix
+- Ladder timer negative-preset fault fires only when the timer times (TON/RTO true rung, TOF false); ACC never faults
+
 ## 0.4.2
 
 - Fix ladder Timer Off Delay (TOF) so its output turns off exactly at the preset instead of one scan late

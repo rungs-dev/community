@@ -1,5 +1,17 @@
 # docs
 
+## 1.7.0
+
+- New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
+- Add Ladder Logic AND, OR, XOR, NOT bitwise blocks and a Move/Logical toolbar tab
+- Add Ladder Logic MVM, CLR, and BTD blocks to the Move/Logical tab
+- Major faults now stop the scan: array subscript errors and negative timer presets abort at the faulting instruction
+- Add NOP, AFI, and MOD ladder instructions
+- Run a Logix-style prescan pass before the first scan; setting EnableIn to 0 now skips Logic and clears EnableOut
+- Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
+- ST AND/OR/XOR/NOT are bitwise on numeric operands, matching Logix®; & synonym pinned; bitwise legal in subscripts
+- Structured Text timers and counters ignore runtime .ACC writes, matching Logix
+
 ## 1.6.0
 
 - Add blog post on which AI models write the best Ladder Logic and Structured Text, and why Relay runs on Gemini

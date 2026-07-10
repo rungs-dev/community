@@ -1,5 +1,7 @@
 # relay-agent-adk
 
+## 0.0.5
+
 ## 0.0.4
 
 - Tighten exercise-builder prompt: honest test names, nonzero input defaults, full-cycle tests for stateful outputs

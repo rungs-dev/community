@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.4.1
+
+- CTUD exercise tests observe the enable low before expecting a count, matching controller prescan behavior
+
 ## 0.4.0
 
 - Add ten exercises and reorder the catalog so concepts build on each other — 40 exercises now playable

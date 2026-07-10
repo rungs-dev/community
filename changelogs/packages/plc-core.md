@@ -1,5 +1,17 @@
 # @repo/plc-core
 
+## 0.7.0
+
+- Centralize data-type categories, ranges, and promotion rules in one registry
+- Instruction registry rows now carry per-language forms (st/ld), each with its own operands and docs link
+- New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
+- Add Ladder Logic AND, OR, XOR, NOT bitwise blocks and a Move/Logical toolbar tab
+- Add Ladder Logic MVM, CLR, and BTD blocks to the Move/Logical tab
+- Add NOP, AFI, and MOD ladder instructions
+- Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
+- Derive ladder timer, counter, and coil mnemonic sets from the instruction registry
+- Catch mistakes in Structured Text math functions like ABS and SIN as you type them instead of when the program runs
+
 ## 0.6.0
 
 - Add exercise mode: open a practice exercise with its brief and runnable, locked acceptance tests

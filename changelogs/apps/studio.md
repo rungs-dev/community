@@ -1,5 +1,23 @@
 # studio
 
+## 0.9.0
+
+- New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
+- Add Ladder Logic AND, OR, XOR, NOT bitwise blocks and a Move/Logical toolbar tab
+- Add Ladder Logic MVM, CLR, and BTD blocks to the Move/Logical tab
+- Major faults now stop the scan: array subscript errors and negative timer presets abort at the faulting instruction
+- Add NOP, AFI, and MOD ladder instructions
+- Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
+- ST AND/OR/XOR/NOT are bitwise on numeric operands, matching Control Logix®; & synonym pinned; bitwise legal in subscripts
+- Stop suggesting an invalid tag type when you create a tag for the SIZE or reset (RES) instructions
+- Fix DINT math to wrap at 32 bits like a real controller, including MUL overflow and mid-expression results
+- Show an error when a ladder timer (TON, TOF, RTO) runs with a negative PRE or ACC
+- ST no longer accepts TRUE/FALSE literals, matching Logix®: BOOL values are 1 or 0
+- Fix EXIT in Structured Text to stop only the innermost loop instead of ending the whole routine
+- Catch mistakes in Structured Text math functions like ABS and SIN as you type them instead of when the program runs
+- ST `MOD` by zero now returns 0 and `MOD` accepts REAL operands, matching observed Logix controller behavior
+- Structured Text timers and counters ignore runtime .ACC writes, matching Logix
+
 ## 0.8.5
 
 - Show Relay's thinking while it prepares an answer, with full thoughts on click

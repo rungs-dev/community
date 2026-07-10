@@ -1,5 +1,7 @@
 # relay-agent
 
+## 0.1.7
+
 ## 0.1.6
 
 - Run AOI tests through one shared runner everywhere — `runTestVectors` is now async with a pluggable executor

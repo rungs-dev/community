@@ -1,5 +1,13 @@
 # @repo/ladder-editor
 
+## 0.7.0
+
+- New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
+- Add Ladder Logic AND, OR, XOR, NOT bitwise blocks and a Move/Logical toolbar tab
+- Add Ladder Logic MVM, CLR, and BTD blocks to the Move/Logical tab
+- Add NOP, AFI, and MOD ladder instructions
+- Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
+
 ## 0.6.1
 
 ## 0.6.0

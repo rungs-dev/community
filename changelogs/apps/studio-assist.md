@@ -1,5 +1,17 @@
 # studio-assist
 
+## 0.2.2
+
+- New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
+- Add Ladder Logic AND, OR, XOR, NOT bitwise blocks and a Move/Logical toolbar tab
+- Add Ladder Logic MVM, CLR, and BTD blocks to the Move/Logical tab
+- Major faults now stop the scan: array subscript errors and negative timer presets abort at the faulting instruction
+- Add NOP, AFI, and MOD ladder instructions
+- Run a Logix-style prescan pass before the first scan; setting EnableIn to 0 now skips Logic and clears EnableOut
+- Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
+- ST no longer accepts TRUE/FALSE literals, matching Logix®: BOOL values are 1 or 0
+- ST AND/OR/XOR/NOT are bitwise on numeric operands, matching Logix®; & synonym pinned; bitwise legal in subscripts
+
 ## 0.2.1
 
 - Improve Relay's guidance on ladder timers, comparisons, and timed logic in Structured Text

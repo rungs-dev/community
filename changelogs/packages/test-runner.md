@@ -1,5 +1,9 @@
 # @repo/test-runner
 
+## 0.3.0
+
+- Run a Logix-style prescan pass before the first scan; setting EnableIn to 0 now skips Logic and clears EnableOut
+
 ## 0.2.0
 
 - Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
