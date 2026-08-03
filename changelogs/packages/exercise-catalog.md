@@ -1,5 +1,12 @@
 # @repo/exercise-catalog
 
+## 0.5.0
+
+- Add 20 playable exercises — math, bit logic, masked moves, filters, and sequencers — bringing the catalog to 60
+- Reorder the catalog easiest-first and update which 20 exercises are free
+- Tighten tests, reference solutions, and behavior notes across existing exercises, with worked binary examples
+- Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior
+
 ## 0.4.1
 
 - CTUD exercise tests observe the enable low before expecting a count, matching controller prescan behavior

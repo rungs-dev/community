@@ -1,5 +1,11 @@
 # studio-assist
 
+## 0.2.3
+
+- Add OSR and OSF one-shot instructions to the Ladder Diagram
+- Add OSRI and OSFI one-shot instructions and the FBD_ONESHOT data type to Structured Text
+- Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior
+
 ## 0.2.2
 
 - New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases

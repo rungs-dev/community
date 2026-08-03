@@ -1,5 +1,11 @@
 # @repo/plc-core
 
+## 0.8.0
+
+- Add OSR and OSF one-shot instructions to the Ladder Diagram
+- Add OSRI and OSFI one-shot instructions and the FBD_ONESHOT data type to Structured Text
+- Allow instruction mnemonics like TON or OSR as tag names and stop AOI names from shadowing built-in instructions
+
 ## 0.7.0
 
 - Centralize data-type categories, ranges, and promotion rules in one registry

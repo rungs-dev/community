@@ -1,5 +1,9 @@
 # @repo/ladder-editor
 
+## 0.8.0
+
+- Add OSR and OSF one-shot instructions to the Ladder Diagram
+
 ## 0.7.0
 
 - New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases

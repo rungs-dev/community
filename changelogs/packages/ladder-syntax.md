@@ -1,5 +1,7 @@
 # @repo/ladder-syntax
 
+## 0.2.3
+
 ## 0.2.2
 
 - New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases

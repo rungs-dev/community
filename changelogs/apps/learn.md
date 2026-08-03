@@ -1,6 +1,10 @@
 # learn
 
-## 0.6.1
+## 0.7.0
+
+- Add 20 playable exercises — math, bit logic, masked moves, filters, and sequencers — bringing the catalog to 60
+- Reorder the catalog easiest-first and update which 20 exercises are free
+- Tighten tests, reference solutions, and behavior notes across existing exercises, with worked binary examples
 
 ## 0.6.0
 

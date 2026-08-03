@@ -1,5 +1,10 @@
 # @repo/test-runner
 
+## 0.4.0
+
+- Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior
+- Add OSRI and OSFI one-shot instructions and the FBD_ONESHOT data type to Structured Text
+
 ## 0.3.0
 
 - Run a Logix-style prescan pass before the first scan; setting EnableIn to 0 now skips Logic and clears EnableOut

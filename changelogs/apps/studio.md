@@ -1,5 +1,14 @@
 # studio
 
+## 0.10.0
+
+- Add OSR and OSF one-shot instructions to the Ladder Diagram
+- Add OSRI and OSFI one-shot instructions and the FBD_ONESHOT data type to Structured Text
+- Pause the simulation while Studio sits in a background tab, and resume it when you come back
+- Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior
+- Remove the What you'll learn section from the exercise panel
+- Allow instruction mnemonics like TON or OSR as tag names and stop AOI names from shadowing built-in instructions
+
 ## 0.9.0
 
 - New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
