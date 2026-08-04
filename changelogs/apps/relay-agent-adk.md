@@ -1,5 +1,7 @@
 # relay-agent-adk
 
+## 0.0.7
+
 ## 0.0.6
 
 - Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior

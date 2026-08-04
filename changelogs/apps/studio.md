@@ -1,5 +1,11 @@
 # studio
 
+## 0.10.1
+
+- Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`
+- Speed up Relay replies by moving the AI tutor to GPT-5.6-Luna model
+- Tell real ladder instructions rungs.dev does not support apart from names that are not instructions at all
+
 ## 0.10.0
 
 - Add OSR and OSF one-shot instructions to the Ladder Diagram

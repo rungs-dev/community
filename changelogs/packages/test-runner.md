@@ -1,5 +1,7 @@
 # @repo/test-runner
 
+## 0.4.1
+
 ## 0.4.0
 
 - Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior

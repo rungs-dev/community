@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.4
+
+- Speed up Relay replies by moving the AI tutor to GPT-5.6-Luna model
+
 ## 0.2.3
 
 - Add OSR and OSF one-shot instructions to the Ladder Diagram

@@ -1,5 +1,10 @@
 # @repo/ladder-syntax
 
+## 0.2.4
+
+- Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`
+- Tell real ladder instructions rungs.dev does not support apart from names that are not instructions at all
+
 ## 0.2.3
 
 ## 0.2.2

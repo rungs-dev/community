@@ -1,5 +1,7 @@
 # @repo/aoi-io
 
+## 0.3.5
+
 ## 0.3.4
 
 - Allow instruction mnemonics like TON or OSR as tag names and stop AOI names from shadowing built-in instructions

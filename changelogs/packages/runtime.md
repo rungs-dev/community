@@ -1,5 +1,7 @@
 # @repo/runtime
 
+## 0.3.1
+
 ## 0.3.0
 
 - Add OSRI and OSFI one-shot instructions and the FBD_ONESHOT data type to Structured Text

@@ -1,5 +1,10 @@
 # @repo/plc-core
 
+## 0.9.0
+
+- Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`
+- Tell real ladder instructions rungs.dev does not support apart from names that are not instructions at all
+
 ## 0.8.0
 
 - Add OSR and OSF one-shot instructions to the Ladder Diagram

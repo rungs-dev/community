@@ -1,5 +1,7 @@
 # @repo/ladder-editor
 
+## 0.8.1
+
 ## 0.8.0
 
 - Add OSR and OSF one-shot instructions to the Ladder Diagram

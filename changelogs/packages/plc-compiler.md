@@ -1,5 +1,7 @@
 # @repo/plc-compiler
 
+## 0.6.1
+
 ## 0.6.0
 
 - Add OSR and OSF one-shot instructions to the Ladder Diagram

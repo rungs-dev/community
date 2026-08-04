@@ -1,5 +1,9 @@
 # docs
 
+## 1.9.0
+
+- Add a blog post GPT-5.6 Luna is my new favorite model for Ladder Logic
+
 ## 1.8.0
 
 - Add OSR and OSF one-shot instructions to the Ladder Diagram

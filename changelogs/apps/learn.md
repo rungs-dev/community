@@ -1,5 +1,7 @@
 # learn
 
+## 0.7.1
+
 ## 0.7.0
 
 - Add 20 playable exercises — math, bit logic, masked moves, filters, and sequencers — bringing the catalog to 60
