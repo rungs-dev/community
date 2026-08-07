@@ -1,5 +1,12 @@
 # docs
 
+## 1.10.0
+
+- New post "What Data Taught Me About Testing Time-Based PLC Logic"
+- Show preset and accumulator values inside the timer and counter blocks on the ladder instruction pages
+- Teach the timer transition-window idiom in test guidance so generated tests accept every correct implementation
+- Add per-case `scanTime` and hold-only steps to tests — timing checks can now run finer than the 100 ms default
+
 ## 1.9.0
 
 - Add a blog post GPT-5.6 Luna is my new favorite model for Ladder Logic

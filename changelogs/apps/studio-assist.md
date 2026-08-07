@@ -1,5 +1,11 @@
 # studio-assist
 
+## 0.2.5
+
+- Teach the timer transition-window idiom in test guidance so generated tests accept every correct implementation
+- Show clearer test failure messages with the failing scan's time, carried inputs, and the previous scan's value
+- Add per-case `scanTime` and hold-only steps to tests — timing checks can now run finer than the 100 ms default
+
 ## 0.2.4
 
 - Speed up Relay replies by moving the AI tutor to GPT-5.6-Luna model

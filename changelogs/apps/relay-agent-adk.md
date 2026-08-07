@@ -1,5 +1,10 @@
 # relay-agent-adk
 
+## 0.0.8
+
+- Teach the timer transition-window idiom in test guidance so generated tests accept every correct implementation
+- Add per-case `scanTime` and hold-only steps to tests — timing checks can now run finer than the 100 ms default
+
 ## 0.0.7
 
 ## 0.0.6

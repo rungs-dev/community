@@ -1,5 +1,9 @@
 # @repo/plc-compiler
 
+## 0.6.2
+
+- Structured Text timer-reuse warning now fires only when different timer instructions share a tag, and names them
+
 ## 0.6.1
 
 ## 0.6.0

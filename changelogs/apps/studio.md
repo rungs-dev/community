@@ -1,5 +1,14 @@
 # studio
 
+## 0.11.0
+
+- Show clearer test failure messages with the failing scan's time, carried inputs, and the previous scan's value
+- Add per-case `scanTime` and hold-only steps to tests — timing checks can now run finer than the 100 ms default
+- Accept minute and hour units in test time values, so an hour-long wait reads `time: 1h` instead of `3600000ms`
+- Fix test editor autocomplete: right suggestions at every indent and correct indentation when pressing Enter
+- Explain test file mistakes better: typo suggestions, specific `advance` errors, and impossible BOOL or DINT values flagged
+- Structured Text timer-reuse warning now fires only when different timer instructions share a tag, and names them
+
 ## 0.10.1
 
 - Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`

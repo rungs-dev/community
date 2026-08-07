@@ -1,5 +1,10 @@
 # @repo/exercise-catalog
 
+## 0.6.0
+
+- Fix timed exercise tests rejecting correct solutions; a second scan cadence now catches scan-counted timing
+- Add per-case `scanTime` and hold-only steps to tests — timing checks can now run finer than the 100 ms default
+
 ## 0.5.1
 
 ## 0.5.0

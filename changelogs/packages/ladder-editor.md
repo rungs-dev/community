@@ -1,5 +1,10 @@
 # @repo/ladder-editor
 
+## 0.9.0
+
+- StaticLadderDiagram accepts tagValues to show preset and accumulator values inside static diagrams
+- Show preset and accumulator values inside the timer and counter blocks on the ladder instruction pages
+
 ## 0.8.1
 
 ## 0.8.0
