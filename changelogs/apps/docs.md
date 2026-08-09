@@ -1,5 +1,9 @@
 # docs
 
+## 1.10.1
+
+- Stop the docs site and Studio from loading blank right after a new version ships
+
 ## 1.10.0
 
 - New post "What Data Taught Me About Testing Time-Based PLC Logic"

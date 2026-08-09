@@ -1,5 +1,9 @@
 # studio
 
+## 0.11.1
+
+- Stop the docs site and Studio from loading blank right after a new version ships
+
 ## 0.11.0
 
 - Show clearer test failure messages with the failing scan's time, carried inputs, and the previous scan's value
