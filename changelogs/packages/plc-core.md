@@ -1,5 +1,9 @@
 # @repo/plc-core
 
+## 0.10.0
+
+- Swap one ladder instruction for another in place — double-click it, then pick the new one from the list
+
 ## 0.9.0
 
 - Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`

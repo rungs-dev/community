@@ -1,9 +1,5 @@
 # @repo/runtime
 
-## 0.3.2
-
-## 0.3.1
-
 ## 0.3.0
 
 - Add OSRI and OSFI one-shot instructions and the FBD_ONESHOT data type to Structured Text
@@ -13,13 +9,3 @@
 
 - Run a Logix-style prescan pass before the first scan; setting EnableIn to 0 now skips Logic and clears EnableOut
 - Structured Text timers and counters ignore runtime .ACC writes, matching Logix
-
-## 0.1.5
-
-## 0.1.4
-
-## 0.1.3
-
-## 0.1.2
-
-## 0.1.1

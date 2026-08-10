@@ -1,11 +1,13 @@
 # @repo/ladder-editor
 
+## 0.10.0
+
+- Swap one ladder instruction for another in place — double-click it, then pick the new one from the list
+
 ## 0.9.0
 
 - StaticLadderDiagram accepts tagValues to show preset and accumulator values inside static diagrams
 - Show preset and accumulator values inside the timer and counter blocks on the ladder instruction pages
-
-## 0.8.1
 
 ## 0.8.0
 
@@ -18,8 +20,6 @@
 - Add Ladder Logic MVM, CLR, and BTD blocks to the Move/Logical tab
 - Add NOP, AFI, and MOD ladder instructions
 - Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
-
-## 0.6.1
 
 ## 0.6.0
 

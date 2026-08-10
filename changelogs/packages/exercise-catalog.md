@@ -5,8 +5,6 @@
 - Fix timed exercise tests rejecting correct solutions; a second scan cadence now catches scan-counted timing
 - Add per-case `scanTime` and hold-only steps to tests — timing checks can now run finer than the 100 ms default
 
-## 0.5.1
-
 ## 0.5.0
 
 - Add 20 playable exercises — math, bit logic, masked moves, filters, and sequencers — bringing the catalog to 60

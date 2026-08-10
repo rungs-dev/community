@@ -1,5 +1,9 @@
 # studio
 
+## 0.11.2
+
+- Swap one ladder instruction for another in place — double-click it, then pick the new one from the list
+
 ## 0.11.1
 
 - Stop the docs site and Studio from loading blank right after a new version ships

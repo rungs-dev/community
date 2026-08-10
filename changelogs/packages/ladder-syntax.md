@@ -5,16 +5,12 @@
 - Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`
 - Tell real ladder instructions rungs.dev does not support apart from names that are not instructions at all
 
-## 0.2.3
-
 ## 0.2.2
 
 - New Ladder Diagram one-input math instructions: ABS, SQRT, and NEG (Math tab), with emulator-verified edge cases
 - Add Ladder Logic AND, OR, XOR, NOT bitwise blocks and a Move/Logical toolbar tab
 - Add NOP, AFI, and MOD ladder instructions
 - Radix numeric literals in ST and Ladder: 16#, 2#, and 8# DINT bit patterns with underscore grouping
-
-## 0.2.1
 
 ## 0.2.0
 

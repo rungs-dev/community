@@ -5,8 +5,6 @@
 - Teach the timer transition-window idiom in test guidance so generated tests accept every correct implementation
 - Add per-case `scanTime` and hold-only steps to tests — timing checks can now run finer than the 100 ms default
 
-## 0.0.7
-
 ## 0.0.6
 
 - Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior
@@ -17,8 +15,6 @@
 - Count `hold` assertions toward output coverage so tests asserting an output only via `hold` are accepted
 - Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
 - Run AOI tests through one shared runner everywhere — `runTestVectors` is now async with a pluggable executor
-
-## 0.0.3
 
 ## 0.0.2
 

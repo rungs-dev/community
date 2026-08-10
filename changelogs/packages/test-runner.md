@@ -7,8 +7,6 @@
 - Accept minute and hour units in test time values, so an hour-long wait reads `time: 1h` instead of `3600000ms`
 - Explain test file mistakes better: typo suggestions, specific `advance` errors, and impossible BOOL or DINT values flagged
 
-## 0.4.1
-
 ## 0.4.0
 
 - Make timers keep accurate time when scans run late, modeled on measured ControlLogix® behavior
@@ -23,15 +21,9 @@
 - Add `hold` to AOI unit tests — assert outputs keep their value on every scan of a step
 - Run AOI tests through one shared runner everywhere — `runTestVectors` is now async with a pluggable executor
 
-## 0.1.5
-
 ## 0.1.4
 
 - Internal: move the PLC exercise specs into a shared catalog package with runtime validation
-
-## 0.1.3
-
-## 0.1.2
 
 ## 0.1.1
 
