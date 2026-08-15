@@ -1,5 +1,10 @@
 # docs
 
+## 1.10.3
+
+- Allow sharing individual Plus exercise AOIs while prohibiting catalog-scale redistribution.
+- Update the Privacy Policy to cover email code sign-in and the bot check that protects it
+
 ## 1.10.1
 
 - Stop the docs site and Studio from loading blank right after a new version ships

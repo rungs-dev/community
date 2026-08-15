@@ -1,5 +1,12 @@
 # studio
 
+## 0.11.3
+
+- Complete instruction and direct tag suggestions without interrupting keyboard navigation.
+- Improve Tab and arrow-key editing across nested ladder instructions, and focus the first operand after insertion.
+- Sign in with a one-time code emailed to you, alongside Google and GitHub
+- Scope tag actions to the operand that opened the menu, restore ladder focus after tag creation, and hide diagnostics while inline controls are active.
+
 ## 0.11.2
 
 - Swap one ladder instruction for another in place — double-click it, then pick the new one from the list

@@ -1,5 +1,9 @@
 # learn
 
+## 0.7.4
+
+- Sign in with a one-time code emailed to you, alongside Google and GitHub
+
 ## 0.7.0
 
 - Add 20 playable exercises — math, bit logic, masked moves, filters, and sequencers — bringing the catalog to 60

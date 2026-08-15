@@ -1,5 +1,12 @@
 # @repo/ladder-editor
 
+## 0.10.1
+
+- Complete instruction and direct tag suggestions without interrupting keyboard navigation.
+- Improve Tab and arrow-key editing across nested ladder instructions, and focus the first operand after insertion.
+- Scope tag actions to the operand that opened the menu, restore ladder focus after tag creation, and hide diagnostics while inline controls are active.
+- Remove the F2 shortcut for single-operand editing. Use Enter or type directly to edit an operand.
+
 ## 0.10.0
 
 - Swap one ladder instruction for another in place — double-click it, then pick the new one from the list
