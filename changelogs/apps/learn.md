@@ -1,5 +1,8 @@
 # learn
 
+> Superseded — this app moved to `apps/web`. Later entries are in that
+> app's changelog; these releases are preserved there too.
+
 ## 0.7.4
 
 - Sign in with a one-time code emailed to you, alongside Google and GitHub

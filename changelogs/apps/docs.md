@@ -1,5 +1,8 @@
 # docs
 
+> Superseded — this app moved to `apps/web`. Later entries are in that
+> app's changelog; these releases are preserved there too.
+
 ## 1.10.3
 
 - Allow sharing individual Plus exercise AOIs while prohibiting catalog-scale redistribution.
