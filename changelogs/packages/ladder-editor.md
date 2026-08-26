@@ -1,5 +1,14 @@
 # @repo/ladder-editor
 
+## 0.11.0
+
+- Add drag-and-drop editing for ladder branches and multi-instruction selections.
+- Add a draggable branch-level tool; toolbar drags preview the real rung, branch, and level shapes
+- Hold ⌥ (macOS) or Ctrl to copy instead of move while dragging ladder elements
+- On touch, a long-press starts a drag when moved and opens the context menu when released in place
+- Remove dead code and merge duplicated instruction editing logic; no user-visible change
+- Use Studio on phones and tablets: sidebars fold into drawers and the ladder editor supports touch editing
+
 ## 0.10.1
 
 - Complete instruction and direct tag suggestions without interrupting keyboard navigation.

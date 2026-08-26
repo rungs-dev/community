@@ -1,5 +1,14 @@
 # studio
 
+## 1.0.0
+
+- Graduate Studio out of beta: the ladder editor, Structured Text, and simulation are stable at 1.0
+- Use Studio on phones and tablets: sidebars fold into drawers and the ladder editor supports touch editing
+- Add drag-and-drop editing for ladder branches and multi-instruction selections.
+- Add a draggable branch-level tool; toolbar drags preview the real rung, branch, and level shapes
+- Hold ⌥ (macOS) or Ctrl to copy instead of move while dragging ladder elements
+- On touch, a long-press starts a drag when moved and opens the context menu when released in place
+
 ## 0.11.3
 
 - Complete instruction and direct tag suggestions without interrupting keyboard navigation.

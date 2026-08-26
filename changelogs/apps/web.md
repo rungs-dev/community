@@ -1,5 +1,9 @@
 # web
 
+## 1.2.0
+
+- Show Studio links on phones and add a closing call-to-action to the landing page
+
 ## 1.1.0
 
 - Exercises, pricing, and sign-in now live on rungs.dev; learn.rungs.dev redirects there
