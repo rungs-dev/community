@@ -1,5 +1,10 @@
 # studio
 
+## 1.0.1
+
+- Progress made before signing in now follows you into your account more reliably, with a safer hand-over behind the scenes
+- Watch Dylan's Tutorial, a community video walkthrough of Studio, linked from the sidebar next to Documentation
+
 ## 1.0.0
 
 - Graduate Studio out of beta: the ladder editor, Structured Text, and simulation are stable at 1.0

@@ -1,5 +1,9 @@
 # web
 
+## 1.2.1
+
+- Progress made before signing in now follows you into your account more reliably, with a safer hand-over behind the scenes
+
 ## 1.2.0
 
 - Show Studio links on phones and add a closing call-to-action to the landing page
