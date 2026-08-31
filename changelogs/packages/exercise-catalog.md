@@ -1,5 +1,11 @@
 # @repo/exercise-catalog
 
+## 0.7.0
+
+- Browse the exercises as ordered courses at rungs.dev/courses, each with its own page, progress and starting point
+- The free tier is now the Boolean Logic course
+- Add 10 new exercises to the catalog
+
 ## 0.6.0
 
 - Fix timed exercise tests rejecting correct solutions; a second scan cadence now catches scan-counted timing

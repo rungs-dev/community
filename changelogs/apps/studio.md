@@ -1,5 +1,11 @@
 # studio
 
+## 1.1.0
+
+- Add 10 new exercises to the catalog
+- Align rung numbers with their wires, reposition diagnostic badges, and improve the End rung label
+- Replace the sidebar Practice link with Courses
+
 ## 1.0.1
 
 - Progress made before signing in now follows you into your account more reliably, with a safer hand-over behind the scenes

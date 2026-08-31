@@ -1,5 +1,9 @@
 # @repo/ladder-editor
 
+## 0.11.1
+
+- Align rung numbers with their wires, reposition diagnostic badges, and improve the End rung label
+
 ## 0.11.0
 
 - Add drag-and-drop editing for ladder branches and multi-instruction selections.

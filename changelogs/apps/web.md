@@ -1,5 +1,11 @@
 # web
 
+## 1.3.0
+
+- Browse the exercises as ordered courses at rungs.dev/courses, each with its own page, progress and starting point
+- The free tier is now the Boolean Logic course
+- Add 10 new exercises to the catalog
+
 ## 1.2.1
 
 - Progress made before signing in now follows you into your account more reliably, with a safer hand-over behind the scenes
