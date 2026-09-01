@@ -1,5 +1,9 @@
 # @repo/ladder-editor
 
+## 0.11.2
+
+- Copy ladder selections more reliably and warn in the status panel when a clipboard write fails, instead of failing silently
+
 ## 0.11.1
 
 - Align rung numbers with their wires, reposition diagnostic badges, and improve the End rung label

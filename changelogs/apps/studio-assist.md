@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.7
+
+- Improve verification guidance and preserve valid ladder latch patterns when diagnosing failed tests
+
 ## 0.2.5
 
 - Teach the timer transition-window idiom in test guidance so generated tests accept every correct implementation

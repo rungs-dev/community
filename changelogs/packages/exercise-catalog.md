@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.7.1
+
+- Strengthen exercise vectors so invalid shortcut logic no longer passes
+
 ## 0.7.0
 
 - Browse the exercises as ordered courses at rungs.dev/courses, each with its own page, progress and starting point

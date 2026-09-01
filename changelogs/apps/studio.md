@@ -1,5 +1,12 @@
 # studio
 
+## 1.1.1
+
+- Strengthen exercise vectors so invalid shortcut logic no longer passes
+- Copy ladder selections more reliably and warn in the status panel when a clipboard write fails, instead of failing silently
+- Fix a crash on startup when a saved project restored open editor tabs that no longer matched the saved AOI
+- Save exercise progress for anonymous users when Studio is opened directly, not just from a rungs.dev page
+
 ## 1.1.0
 
 - Add 10 new exercises to the catalog
