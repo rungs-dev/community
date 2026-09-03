@@ -1,5 +1,9 @@
 # @repo/ladder-editor
 
+## 0.12.0
+
+- Add optional in-rung guidance support to the ladder editor
+
 ## 0.11.2
 
 - Copy ladder selections more reliably and warn in the status panel when a clipboard write fails, instead of failing silently

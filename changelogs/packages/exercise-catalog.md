@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.8.0
+
+- Add Boiler Interlocks and Burner Control exercises
+
 ## 0.7.1
 
 - Strengthen exercise vectors so invalid shortcut logic no longer passes

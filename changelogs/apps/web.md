@@ -1,5 +1,9 @@
 # web
 
+## 1.4.0
+
+- Add Boiler Interlocks and Burner Control exercises
+
 ## 1.3.0
 
 - Browse the exercises as ordered courses at rungs.dev/courses, each with its own page, progress and starting point

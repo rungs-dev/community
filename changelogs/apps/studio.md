@@ -1,5 +1,10 @@
 # studio
 
+## 1.2.0
+
+- Add Boiler Interlocks and Burner Control exercises
+- Add optional in-rung guidance support to the ladder editor
+
 ## 1.1.1
 
 - Strengthen exercise vectors so invalid shortcut logic no longer passes
