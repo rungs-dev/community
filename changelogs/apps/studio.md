@@ -1,5 +1,10 @@
 # studio
 
+## 1.2.1
+
+- Show the compiler errors when you run tests on Logic that does not compile
+- Reload a tab left open across a deploy instead of failing to load
+
 ## 1.2.0
 
 - Add Boiler Interlocks and Burner Control exercises
