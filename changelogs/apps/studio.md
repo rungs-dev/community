@@ -1,5 +1,9 @@
 # studio
 
+## 1.3.1
+
+- Hide EnableIn and EnableOut from the simulation panel, so the inputs you can toggle are your own
+
 ## 1.3.0
 
 - Save an AOI as an .L5X file you can import into Logix Designer®
