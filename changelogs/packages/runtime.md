@@ -1,5 +1,9 @@
 # @repo/runtime
 
+## 0.4.0
+
+- Every AOI now has EnableIn and EnableOut as built-in parameters
+
 ## 0.3.0
 
 - Add OSRI and OSFI one-shot instructions and the FBD_ONESHOT data type to Structured Text

@@ -1,5 +1,10 @@
 # @repo/exercise-catalog
 
+## 0.8.1
+
+- Reject AOI names that clash with a Logix data type such as `TIMER`, which a controller would refuse
+- Every AOI now has EnableIn and EnableOut as built-in parameters
+
 ## 0.8.0
 
 - Add Boiler Interlocks and Burner Control exercises

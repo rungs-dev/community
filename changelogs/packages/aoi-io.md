@@ -1,5 +1,10 @@
 # @repo/aoi-io
 
+## 0.4.0
+
+- Save an AOI as an .L5X file you can import into Logix Designer®
+- Every AOI now has EnableIn and EnableOut as built-in parameters
+
 ## 0.3.4
 
 - Allow instruction mnemonics like TON or OSR as tag names and stop AOI names from shadowing built-in instructions

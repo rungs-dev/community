@@ -1,5 +1,10 @@
 # @repo/plc-core
 
+## 0.11.0
+
+- Reject AOI names that clash with a Logix data type such as `TIMER`, which a controller would refuse
+- Every AOI now has EnableIn and EnableOut as built-in parameters
+
 ## 0.10.0
 
 - Swap one ladder instruction for another in place — double-click it, then pick the new one from the list

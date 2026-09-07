@@ -1,5 +1,11 @@
 # @repo/plc-compiler
 
+## 0.6.4
+
+- Show one Create Tag quick fix for an unknown array or member tag in Structured Text instead of three
+- Flag a built-in such as `ABS` written without parentheses in Structured Text instead of compiling it
+- Structured Text and the tag editor now agree on which names are reserved, so a tag the editor accepts always compiles
+
 ## 0.6.2
 
 - Structured Text timer-reuse warning now fires only when different timer instructions share a tag, and names them

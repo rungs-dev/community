@@ -1,5 +1,9 @@
 # @repo/test-runner
 
+## 0.5.2
+
+No changes in this release.
+
 ## 0.5.0
 
 - Show clearer test failure messages with the failing scan's time, carried inputs, and the previous scan's value

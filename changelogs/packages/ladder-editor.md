@@ -1,5 +1,9 @@
 # @repo/ladder-editor
 
+## 0.12.1
+
+- Fix ladder copy and cut failing behind a stalled clipboard write, and warn instead of silently discarding them
+
 ## 0.12.0
 
 - Add optional in-rung guidance support to the ladder editor

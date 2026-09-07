@@ -1,5 +1,18 @@
 # studio
 
+## 1.3.0
+
+- Save an AOI as an .L5X file you can import into Logix Designer®
+- Fix ladder copy and cut failing behind a stalled clipboard write, and warn instead of silently discarding them
+- Keep Studio usable when Relay fails to load after an update instead of showing a blank page
+- Open Studio when the browser blocks site storage, such as in private browsing
+- Every AOI now has EnableIn and EnableOut as built-in parameters
+- Reject AOI names that clash with a Logix data type such as `TIMER`, which a controller would refuse
+- Show one Create Tag quick fix for an unknown array or member tag in Structured Text instead of three
+- Flag a built-in such as `ABS` written without parentheses in Structured Text instead of compiling it
+- Structured Text and the tag editor now agree on which names are reserved, so a tag the editor accepts always compiles
+- Stop Safari reloading Studio when you leave while a panel is still loading
+
 ## 1.2.1
 
 - Show the compiler errors when you run tests on Logic that does not compile

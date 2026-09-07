@@ -1,5 +1,9 @@
 # @repo/ladder-syntax
 
+## 0.2.6
+
+No changes in this release.
+
 ## 0.2.4
 
 - Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`

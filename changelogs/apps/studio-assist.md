@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.8
+
+No changes in this release.
+
 ## 0.2.7
 
 - Improve verification guidance and preserve valid ladder latch patterns when diagnosing failed tests
