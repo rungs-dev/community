@@ -1,5 +1,9 @@
 # studio
 
+## 1.3.2
+
+- Improve Relay guidance for timer outputs and tag editing
+
 ## 1.3.1
 
 - Hide EnableIn and EnableOut from the simulation panel, so the inputs you can toggle are your own

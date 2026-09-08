@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.9
+
+- Improve Relay guidance for timer outputs and tag editing
+
 ## 0.2.8
 
 No changes in this release.
