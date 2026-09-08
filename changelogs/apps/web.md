@@ -1,5 +1,9 @@
 # web
 
+## 1.5.0
+
+- Add a Studio docs page on saving `.rungs` files, exporting `.L5X` for Logix Designer, and sharing links
+
 ## 1.4.1
 
 No changes in this release.
