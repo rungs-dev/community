@@ -1,5 +1,10 @@
 # studio
 
+## 1.3.4
+
+- Explain a compiler error with Relay straight from the Status panel
+- Finish an exercise and Studio offers the next one in the course, skipping any you have already solved
+
 ## 1.3.3
 
 - Show the lamp-follow guide to all new Ladder Diagram users

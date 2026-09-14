@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.8.2
+
+- Finish an exercise and Studio offers the next one in the course, skipping any you have already solved
+
 ## 0.8.1
 
 - Reject AOI names that clash with a Logix data type such as `TIMER`, which a controller would refuse
