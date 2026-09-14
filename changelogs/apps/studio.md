@@ -1,5 +1,9 @@
 # studio
 
+## 1.3.3
+
+- Show the lamp-follow guide to all new Ladder Diagram users
+
 ## 1.3.2
 
 - Improve Relay guidance for timer outputs and tag editing
