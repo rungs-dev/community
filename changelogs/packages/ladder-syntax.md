@@ -1,5 +1,10 @@
 # @repo/ladder-syntax
 
+## 0.3.0
+
+- Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions
+- Add IsINF and IsNAN to the Compare tab — catch a REAL that has turned into infinity or "not a number"
+
 ## 0.2.6
 
 No changes in this release.

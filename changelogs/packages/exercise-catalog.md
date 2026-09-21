@@ -1,5 +1,12 @@
 # @repo/exercise-catalog
 
+## 0.9.0
+
+- Add the Arrays and Buffers course — storage racks, sensor banks, batch analysis, queues and stacks
+- Add SINT and INT tags — 8-bit and 16-bit whole numbers for device registers and byte data
+- Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction
+- Check a whole array in one test line — write `Ref_Samples: [0, 0, 0, 0]`, and a mismatch is reported once, not once per element
+
 ## 0.8.2
 
 - Finish an exercise and Studio offers the next one in the course, skipping any you have already solved

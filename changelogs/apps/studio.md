@@ -1,5 +1,25 @@
 # studio
 
+## 1.4.0
+
+- Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
+- Add the Arrays and Buffers course — storage racks, sensor banks, batch analysis, queues and stacks
+- Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions
+- Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction
+- Add IsINF and IsNAN to the Compare tab — catch a REAL that has turned into infinity or "not a number"
+- Add SINT and INT tags — 8-bit and 16-bit whole numbers for device registers and byte data
+- Structured Text gains `**` for powers, plus TRUNC, LN, LOG, DEG, RAD and the arc trig functions
+- Raise the array size limit to 8192 elements
+- Suggest whole-number tags in bit operands once you start typing their name, so `Packed.7` is reachable
+- Round a BOOL array size up to the next block of 32 — ask for 24 and you get 32
+- Warn when a divisor is typed as zero, including inside an array index, where it stops the scan
+- Say why a file will not open instead of loading an empty AOI named ParseError
+- Remove the blank line ladder instruction boxes left under an operand with no value to show
+- Stop the Next exercise button opening an exercise you do not have access to
+- Explain why a tag was refused instead of silently declining to add the row
+- Stop a test at its first failing step, so the report names the defect once instead of repeating it for every later step
+- Timer and counter rungs now read `TON(MyTimer,?,?)`, not `TON(MyTimer)`, matching Logix Designer®
+
 ## 1.3.4
 
 - Explain a compiler error with Relay straight from the Status panel

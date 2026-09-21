@@ -1,5 +1,19 @@
 # @repo/plc-core
 
+## 0.12.0
+
+- Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
+- Raise the array size limit to 8192 elements
+- Round a BOOL array size up to the next block of 32 — ask for 24 and you get 32
+- Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions
+- Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction
+- Add IsINF and IsNAN to the Compare tab — catch a REAL that has turned into infinity or "not a number"
+- Add SINT and INT tags — 8-bit and 16-bit whole numbers for device registers and byte data
+- Structured Text gains `**` for powers, plus TRUNC, LN, LOG, DEG, RAD and the arc trig functions
+- Timer and counter rungs now read `TON(MyTimer,?,?)`, not `TON(MyTimer)`, matching Logix Designer®
+- Suggest whole-number tags in bit operands once you start typing their name, so `Packed.7` is reachable
+- Say why a file will not open instead of loading an empty AOI named ParseError
+
 ## 0.11.0
 
 - Reject AOI names that clash with a Logix data type such as `TIMER`, which a controller would refuse

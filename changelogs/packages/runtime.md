@@ -1,5 +1,11 @@
 # @repo/runtime
 
+## 0.5.0
+
+- Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
+- Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction
+- Add SINT and INT tags — 8-bit and 16-bit whole numbers for device registers and byte data
+
 ## 0.4.0
 
 - Every AOI now has EnableIn and EnableOut as built-in parameters

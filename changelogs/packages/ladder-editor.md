@@ -1,5 +1,13 @@
 # @repo/ladder-editor
 
+## 0.13.0
+
+- Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
+- Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions
+- Add IsINF and IsNAN to the Compare tab — catch a REAL that has turned into infinity or "not a number"
+- Remove the blank line ladder instruction boxes left under an operand with no value to show
+- Timer and counter rungs now read `TON(MyTimer,?,?)`, not `TON(MyTimer)`, matching Logix Designer®
+
 ## 0.12.1
 
 - Fix ladder copy and cut failing behind a stalled clipboard write, and warn instead of silently discarding them

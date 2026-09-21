@@ -1,5 +1,16 @@
 # @repo/aoi-io
 
+## 0.5.0
+
+- Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
+- Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions
+- Say why a file will not open instead of loading an empty AOI named ParseError
+- Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction
+- Add SINT and INT tags — 8-bit and 16-bit whole numbers for device registers and byte data
+- Timer and counter rungs now read `TON(MyTimer,?,?)`, not `TON(MyTimer)`, matching Logix Designer®
+- Fix importing an AOI text file: keep descriptions intact and name the real problem when a tag is rejected
+- Fix exported REAL values under the Exponential style to match the value a controller stores
+
 ## 0.4.0
 
 - Save an AOI as an .L5X file you can import into Logix Designer®

@@ -1,5 +1,16 @@
 # @repo/plc-compiler
 
+## 0.7.0
+
+- Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
+- Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions
+- Warn when a divisor is typed as zero, including inside an array index, where it stops the scan
+- Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction
+- Add IsINF and IsNAN to the Compare tab — catch a REAL that has turned into infinity or "not a number"
+- Add SINT and INT tags — 8-bit and 16-bit whole numbers for device registers and byte data
+- Structured Text gains `**` for powers, plus TRUNC, LN, LOG, DEG, RAD and the arc trig functions
+- Timer and counter rungs now read `TON(MyTimer,?,?)`, not `TON(MyTimer)`, matching Logix Designer®
+
 ## 0.6.4
 
 - Show one Create Tag quick fix for an unknown array or member tag in Structured Text instead of three
