@@ -1,5 +1,9 @@
 # studio
 
+## 1.4.1
+
+- A Studio tab left open across an update keeps simulating instead of breaking the editor
+
 ## 1.4.0
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search

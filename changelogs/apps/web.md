@@ -1,5 +1,9 @@
 # web
 
+## 1.6.1
+
+- Document the emails Learn Plus holders get when new courses are added to their access pass
+
 ## 1.6.0
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
