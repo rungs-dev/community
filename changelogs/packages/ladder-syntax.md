@@ -1,5 +1,9 @@
 # @repo/ladder-syntax
 
+## 0.3.1
+
+- Ladder error messages name the tag or instruction at fault and say how to fix it
+
 ## 0.3.0
 
 - Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions

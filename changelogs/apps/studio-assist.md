@@ -1,5 +1,10 @@
 # studio-assist
 
+## 0.2.11
+
+- Improve the accuracy of Relay's answers
+- Move Relay, the AI tutor, to the GPT-6 Luna model
+
 ## 0.2.10
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search

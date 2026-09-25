@@ -1,5 +1,13 @@
 # studio
 
+## 1.4.2
+
+- Ladder error messages name the tag or instruction at fault and say how to fix it
+- After you delete every rung, the End rung is selected, so you can paste straight away without clicking
+- Pasting instructions while the End rung is selected adds them as a new rung instead of doing nothing
+- Shift-click the End rung to select every rung from the selected one to the last
+- Move Relay, the AI tutor, to the GPT-6 Luna model
+
 ## 1.4.1
 
 - A Studio tab left open across an update keeps simulating instead of breaking the editor

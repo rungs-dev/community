@@ -1,5 +1,9 @@
 # @repo/plc-compiler
 
+## 0.7.1
+
+- Ladder error messages name the tag or instruction at fault and say how to fix it
+
 ## 0.7.0
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search

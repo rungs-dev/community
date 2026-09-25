@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.9.1
+
+No changes in this release.
+
 ## 0.9.0
 
 - Add the Arrays and Buffers course — storage racks, sensor banks, batch analysis, queues and stacks

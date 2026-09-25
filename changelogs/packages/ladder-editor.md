@@ -1,5 +1,11 @@
 # @repo/ladder-editor
 
+## 0.13.1
+
+- After you delete every rung, the End rung is selected, so you can paste straight away without clicking
+- Pasting instructions while the End rung is selected adds them as a new rung instead of doing nothing
+- Shift-click the End rung to select every rung from the selected one to the last
+
 ## 0.13.0
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search

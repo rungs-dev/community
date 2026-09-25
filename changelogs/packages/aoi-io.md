@@ -1,5 +1,9 @@
 # @repo/aoi-io
 
+## 0.5.1
+
+No changes in this release.
+
 ## 0.5.0
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search

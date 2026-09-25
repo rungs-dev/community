@@ -1,5 +1,9 @@
 # web
 
+## 1.6.2
+
+No changes in this release.
+
 ## 1.6.1
 
 - Document the emails Learn Plus holders get when new courses are added to their access pass
