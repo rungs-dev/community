@@ -1,5 +1,9 @@
 # studio
 
+## 1.5.0
+
+- The address bar now shows the open exercise, example or draft, and reloading the page keeps you there
+
 ## 1.4.2
 
 - Ladder error messages name the tag or instruction at fault and say how to fix it
