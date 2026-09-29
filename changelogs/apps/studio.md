@@ -1,5 +1,9 @@
 # studio
 
+## 1.5.1
+
+- Signing in with an email code on a Plus exercise now opens it straight away
+
 ## 1.5.0
 
 - The address bar now shows the open exercise, example or draft, and reloading the page keeps you there
