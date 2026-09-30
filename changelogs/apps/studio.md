@@ -1,5 +1,9 @@
 # studio
 
+## 1.5.2
+
+- Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print
+
 ## 1.5.1
 
 - Signing in with an email code on a Plus exercise now opens it straight away

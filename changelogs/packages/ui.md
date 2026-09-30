@@ -1,5 +1,9 @@
 # @repo/ui
 
+## 0.2.1
+
+- Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print
+
 ## 0.2.0
 
 - Sign in with a one-time code emailed to you, alongside Google and GitHub

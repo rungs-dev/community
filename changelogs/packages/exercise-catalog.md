@@ -1,8 +1,8 @@
 # @repo/exercise-catalog
 
-## 0.9.1
+## 0.9.2
 
-No changes in this release.
+- Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print
 
 ## 0.9.0
 

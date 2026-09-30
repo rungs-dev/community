@@ -9,10 +9,6 @@
 - Add CPT and CMP — write a whole formula in one ladder box instead of chaining math instructions
 - Add IsINF and IsNAN to the Compare tab — catch a REAL that has turned into infinity or "not a number"
 
-## 0.2.6
-
-No changes in this release.
-
 ## 0.2.4
 
 - Point deprecated ladder mnemonics at their current name, so `GEQ` now says to use `GE`, and `MOV` to use `MOVE`

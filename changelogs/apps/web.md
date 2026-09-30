@@ -1,8 +1,9 @@
 # web
 
-## 1.6.2
+## 1.7.0
 
-No changes in this release.
+- Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print
+- The header links to Courses and Exercises on every page
 
 ## 1.6.1
 
@@ -23,10 +24,6 @@ No changes in this release.
 ## 1.5.0
 
 - Add a Studio docs page on saving `.rungs` files, exporting `.L5X` for Logix Designer, and sharing links
-
-## 1.4.1
-
-No changes in this release.
 
 ## 1.4.0
 

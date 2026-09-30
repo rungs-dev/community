@@ -1,9 +1,5 @@
 # @repo/test-runner
 
-## 0.6.1
-
-No changes in this release.
-
 ## 0.6.0
 
 - Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction
@@ -11,10 +7,6 @@ No changes in this release.
 - Check a whole array in one test line — write `Ref_Samples: [0, 0, 0, 0]`, and a mismatch is reported once, not once per element
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
 - Stop a test at its first failing step, so the report names the defect once instead of repeating it for every later step
-
-## 0.5.2
-
-No changes in this release.
 
 ## 0.5.0
 
