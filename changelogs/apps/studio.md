@@ -1,5 +1,11 @@
 # studio
 
+## 1.5.3
+
+- Studio now opens on a home screen
+- Narrow Studio windows now use the phone layout
+- The Tests tab now has Undo and Redo buttons in the toolbar, like the Logic and Tags tabs
+
 ## 1.5.2
 
 - Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print
