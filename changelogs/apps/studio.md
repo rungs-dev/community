@@ -1,5 +1,11 @@
 # studio
 
+## 1.5.4
+
+- Add default input values to exercises, so the simulation shows the logic working from the start
+- Type errors now say what an instruction needs and which type your tag is, e.g. "needs a BOOL, but In_A is of type REAL"
+- A number on a contact or coil now gets a hint: test it with a compare instruction, or store it with MOVE
+
 ## 1.5.3
 
 - Studio now opens on a home screen

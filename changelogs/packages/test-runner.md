@@ -1,5 +1,9 @@
 # @repo/test-runner
 
+## 0.6.2
+
+- Type errors now say what an instruction needs and which type your tag is, e.g. "needs a BOOL, but In_A is of type REAL"
+
 ## 0.6.0
 
 - Add InOut parameters — arrays and structured tags like TIMER can now be passed to your instruction

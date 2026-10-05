@@ -1,5 +1,10 @@
 # @repo/plc-compiler
 
+## 0.7.2
+
+- Type errors now say what an instruction needs and which type your tag is, e.g. "needs a BOOL, but In_A is of type REAL"
+- A number on a contact or coil now gets a hint: test it with a compare instruction, or store it with MOVE
+
 ## 0.7.1
 
 - Ladder error messages name the tag or instruction at fault and say how to fix it

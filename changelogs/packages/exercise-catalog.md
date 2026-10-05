@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.9.3
+
+- Add default input values to exercises, so the simulation shows the logic working from the start
+
 ## 0.9.2
 
 - Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print

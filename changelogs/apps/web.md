@@ -1,5 +1,10 @@
 # web
 
+## 1.7.1
+
+- Add default input values to exercises, so the simulation shows the logic working from the start
+- Type errors now say what an instruction needs and which type your tag is, e.g. "needs a BOOL, but In_A is of type REAL"
+
 ## 1.7.0
 
 - Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print
