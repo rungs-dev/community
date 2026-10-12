@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.12
+
+- Improve the context Relay gets about your work
+
 ## 0.2.11
 
 - Improve the accuracy of Relay's answers

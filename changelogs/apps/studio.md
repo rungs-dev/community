@@ -1,5 +1,10 @@
 # studio
 
+## 1.5.5
+
+- Improve the context Relay gets about your work
+- Trend no longer plots `EnableIn` and `EnableOut`, and autocomplete offers them only once you type `Enab`
+
 ## 1.5.4
 
 - Add default input values to exercises, so the simulation shows the logic working from the start

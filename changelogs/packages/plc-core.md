@@ -1,5 +1,9 @@
 # @repo/plc-core
 
+## 0.12.1
+
+- Trend no longer plots `EnableIn` and `EnableOut`, and autocomplete offers them only once you type `Enab`
+
 ## 0.12.0
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search
