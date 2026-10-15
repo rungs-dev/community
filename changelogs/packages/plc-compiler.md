@@ -1,5 +1,9 @@
 # @repo/plc-compiler
 
+## 0.7.3
+
+- Fix timer and counter edge cases found by testing on a real controller; some test results may change
+
 ## 0.7.2
 
 - Type errors now say what an instruction needs and which type your tag is, e.g. "needs a BOOL, but In_A is of type REAL"

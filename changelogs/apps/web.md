@@ -1,5 +1,10 @@
 # web
 
+## 1.8.0
+
+- Add a blog post on Rungs Studio's first year in numbers
+- Stop a page that doesn't exist from reloading over and over while you are signed in
+
 ## 1.7.1
 
 - Add default input values to exercises, so the simulation shows the logic working from the start

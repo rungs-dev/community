@@ -1,5 +1,9 @@
 # studio
 
+## 1.5.6
+
+- Fix timer and counter edge cases found by testing on a real controller; some test results may change
+
 ## 1.5.5
 
 - Improve the context Relay gets about your work
