@@ -1,5 +1,9 @@
 # @repo/plc-core
 
+## 0.12.2
+
+- Errors for instructions Studio doesn't have, such as `R_TRIG`, `MAX` or `ATN`, now say what to use instead
+
 ## 0.12.1
 
 - Trend no longer plots `EnableIn` and `EnableOut`, and autocomplete offers them only once you type `Enab`

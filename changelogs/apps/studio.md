@@ -1,5 +1,12 @@
 # studio
 
+## 1.5.7
+
+- Exercise tests now say what they check, and catch common mistakes by name
+- Errors for instructions Studio doesn't have, such as `R_TRIG`, `MAX` or `ATN`, now say what to use instead
+- Ladder now warns when a one-shot's storage bit is an input or output, and explains a rung that ends with `ONS`
+- When Studio stops because of an error, it now explains what happened instead of showing a blank page, and lets you reload or save your work to a `.rungs` file
+
 ## 1.5.6
 
 - Fix timer and counter edge cases found by testing on a real controller; some test results may change

@@ -1,5 +1,9 @@
 # web
 
+## 1.8.1
+
+- Exercise tests now say what they check, and catch common mistakes by name
+
 ## 1.8.0
 
 - Add a blog post on Rungs Studio's first year in numbers

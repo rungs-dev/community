@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.9.4
+
+- Exercise tests now say what they check, and catch common mistakes by name
+
 ## 0.9.3
 
 - Add default input values to exercises, so the simulation shows the logic working from the start

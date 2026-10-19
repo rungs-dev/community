@@ -1,5 +1,9 @@
 # @repo/ladder-syntax
 
+## 0.3.2
+
+- Errors for instructions Studio doesn't have, such as `R_TRIG`, `MAX` or `ATN`, now say what to use instead
+
 ## 0.3.1
 
 - Ladder error messages name the tag or instruction at fault and say how to fix it

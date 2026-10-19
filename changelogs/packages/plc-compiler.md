@@ -1,5 +1,10 @@
 # @repo/plc-compiler
 
+## 0.7.4
+
+- Errors for instructions Studio doesn't have, such as `R_TRIG`, `MAX` or `ATN`, now say what to use instead
+- Ladder now warns when a one-shot's storage bit is an input or output, and explains a rung that ends with `ONS`
+
 ## 0.7.3
 
 - Fix timer and counter edge cases found by testing on a real controller; some test results may change
