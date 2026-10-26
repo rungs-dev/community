@@ -1,5 +1,16 @@
 # @repo/plc-compiler
 
+## 0.8.0
+
+- Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`
+- Add `SWPB`, which puts the bytes of an `INT` or `DINT` in a new order, in Ladder and Structured Text
+- Structured Text accepts a bit number with a leading zero, such as `Word.07`, as ladder does
+- Typing `.` on a suggested tag completes its name and lists its members, in ladder boxes and in ST, so `Ref_Code.LEN` takes one edit
+- `FLL` from a `SINT` or `INT` into a `TIMER`, `COUNTER` or `CONTROL` now repeats the source's bytes over the whole structure, as a real PLC does
+- Renaming a tag changes only its uses in ST, LD and tests, never the same word in a comment or quoted text
+- The ST editor suggests every instruction it accepts, such as `UPPER` and `ABS`, and only where it can go, not any word already in the file
+- Structured Text reports each syntax error once, and explains a `VAR` block, a time literal such as `T#5s` or a named argument
+
 ## 0.7.4
 
 - Errors for instructions Studio doesn't have, such as `R_TRIG`, `MAX` or `ATN`, now say what to use instead

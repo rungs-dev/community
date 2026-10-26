@@ -1,5 +1,13 @@
 # @repo/ladder-editor
 
+## 0.14.0
+
+- Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`
+- Add `SWPB`, which puts the bytes of an `INT` or `DINT` in a new order, in Ladder and Structured Text
+- A long value in a ladder box, such as a STRING full of `$00`, now ends in "…" and shows whole on hover, instead of stretching the box across the rung
+- Typing `.` on a suggested tag completes its name and lists its members, in ladder boxes and in ST, so `Ref_Code.LEN` takes one edit
+- The Status panel shows each ladder rung Studio cannot read, by its number and with its text
+
 ## 0.13.1
 
 - After you delete every rung, the End rung is selected, so you can paste straight away without clicking

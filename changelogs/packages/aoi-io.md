@@ -1,5 +1,11 @@
 # @repo/aoi-io
 
+## 0.6.0
+
+- Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`
+- Saved and exported files keep backslashes, quotes, `$` and `}` in comments and descriptions exactly as typed
+- A value typed into an InOut in the I/O panel while stopped is saved as its start value, and exercises that read an InOut now start with data
+
 ## 0.5.0
 
 - Add the Array tab — shift registers, FIFO and LIFO buffers, and whole-array copy, fill, sort, average and search

@@ -1,5 +1,11 @@
 # @repo/test-runner
 
+## 0.7.0
+
+- Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`
+- A value typed into an InOut in the I/O panel while stopped is saved as its start value, and exercises that read an InOut now start with data
+- Renaming a tag changes only its uses in ST, LD and tests, never the same word in a comment or quoted text
+
 ## 0.6.2
 
 - Type errors now say what an instruction needs and which type your tag is, e.g. "needs a BOOL, but In_A is of type REAL"

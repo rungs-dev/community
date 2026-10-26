@@ -1,5 +1,12 @@
 # web
 
+## 1.9.0
+
+- Add byte-order exercises to the Bit Manipulation course, from swapping a register's bytes to reading a `REAL` from two Modbus registers
+- Document `STRING` tags and the string and conversion instructions for Ladder and Structured Text
+- Add the Strings and Text course, from cleaning a scanner code to reading hex text and checking a message checksum
+- Document `SWPB` for Ladder and Structured Text
+
 ## 1.8.1
 
 - Exercise tests now say what they check, and catch common mistakes by name

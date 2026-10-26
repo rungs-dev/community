@@ -1,5 +1,11 @@
 # @repo/exercise-catalog
 
+## 0.10.0
+
+- Add byte-order exercises to the Bit Manipulation course, from swapping a register's bytes to reading a `REAL` from two Modbus registers
+- Add the Strings and Text course, from cleaning a scanner code to reading hex text and checking a message checksum
+- A value typed into an InOut in the I/O panel while stopped is saved as its start value, and exercises that read an InOut now start with data
+
 ## 0.9.4
 
 - Exercise tests now say what they check, and catch common mistakes by name

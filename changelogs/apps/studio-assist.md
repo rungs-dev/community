@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.14
+
+- Relay can help with `STRING` tags, the string instructions and `SWPB`
+
 ## 0.2.13
 
 - Relay now warns that a timer reset on its own `.DN` loses time each cycle, so a total counted from cycles falls behind

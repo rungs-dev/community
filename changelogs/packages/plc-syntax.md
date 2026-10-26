@@ -1,4 +1,12 @@
-# @repo/ladder-syntax
+# @repo/plc-syntax
+
+## 0.3.3
+
+- Renaming a tag changes only its uses in ST, LD and tests, never the same word in a comment or quoted text
+- Structured Text reports each syntax error once, and explains a `VAR` block, a time literal such as `T#5s` or a named argument
+- Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`
+- Add `SWPB`, which puts the bytes of an `INT` or `DINT` in a new order, in Ladder and Structured Text
+- The Status panel shows each ladder rung Studio cannot read, by its number and with its text
 
 ## 0.3.2
 

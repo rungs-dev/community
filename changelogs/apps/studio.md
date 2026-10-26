@@ -1,5 +1,27 @@
 # studio
 
+## 1.6.0
+
+- Add byte-order exercises to the Bit Manipulation course, from swapping a register's bytes to reading a `REAL` from two Modbus registers
+- Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`
+- Add the Strings and Text course, from cleaning a scanner code to reading hex text and checking a message checksum
+- Add `SWPB`, which puts the bytes of an `INT` or `DINT` in a new order, in Ladder and Structured Text
+- Editing an array element's value in the Tags table no longer clears its description
+- Structured Text accepts a bit number with a leading zero, such as `Word.07`, as ladder does
+- A long value in a ladder box, such as a STRING full of `$00`, now ends in "…" and shows whole on hover, instead of stretching the box across the rung
+- Typing `.` on a suggested tag completes its name and lists its members, in ladder boxes and in ST, so `Ref_Code.LEN` takes one edit
+- The right-click menu in the ST and Tests editors shows its background and border again, in light and dark mode
+- A failed test in the Status panel has Explain this test, which asks Relay what the test checks
+- Saved and exported files keep backslashes, quotes, `$` and `}` in comments and descriptions exactly as typed
+- `FLL` from a `SINT` or `INT` into a `TIMER`, `COUNTER` or `CONTROL` now repeats the source's bytes over the whole structure, as a real PLC does
+- A value typed into an InOut in the I/O panel while stopped is saved as its start value, and exercises that read an InOut now start with data
+- The I/O panel shows long values in full, such as a 10-digit `DINT`, instead of cutting off their last digits
+- Opening another AOI or exercise starts a new Relay chat, so Relay answers about the work you have open
+- Renaming a tag changes only its uses in ST, LD and tests, never the same word in a comment or quoted text
+- The ST editor suggests every instruction it accepts, such as `UPPER` and `ABS`, and only where it can go, not any word already in the file
+- Structured Text reports each syntax error once, and explains a `VAR` block, a time literal such as `T#5s` or a named argument
+- The Status panel shows each ladder rung Studio cannot read, by its number and with its text
+
 ## 1.5.7
 
 - Exercise tests now say what they check, and catch common mistakes by name

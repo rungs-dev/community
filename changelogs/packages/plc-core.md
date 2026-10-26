@@ -1,5 +1,14 @@
 # @repo/plc-core
 
+## 0.13.0
+
+- Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`
+- Add `SWPB`, which puts the bytes of an `INT` or `DINT` in a new order, in Ladder and Structured Text
+- Structured Text accepts a bit number with a leading zero, such as `Word.07`, as ladder does
+- Typing `.` on a suggested tag completes its name and lists its members, in ladder boxes and in ST, so `Ref_Code.LEN` takes one edit
+- A value typed into an InOut in the I/O panel while stopped is saved as its start value, and exercises that read an InOut now start with data
+- The ST editor suggests every instruction it accepts, such as `UPPER` and `ABS`, and only where it can go, not any word already in the file
+
 ## 0.12.2
 
 - Errors for instructions Studio doesn't have, such as `R_TRIG`, `MAX` or `ATN`, now say what to use instead
