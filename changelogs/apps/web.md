@@ -1,5 +1,10 @@
 # web
 
+## 1.10.0
+
+- Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects
+- Import Add-On Instructions from Logix Designer .L5X files, or pick one from a whole project, and finish in Studio any logic it can't run yet
+
 ## 1.9.0
 
 - Add byte-order exercises to the Bit Manipulation course, from swapping a register's bytes to reading a `REAL` from two Modbus registers

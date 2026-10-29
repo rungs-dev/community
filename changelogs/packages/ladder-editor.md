@@ -1,5 +1,10 @@
 # @repo/ladder-editor
 
+## 0.15.0
+
+- Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects
+- The Lamp Follow guide shows the icons to look for, asks phones to tap instead of drag, and hides its Test hint once you have tested
+
 ## 0.14.0
 
 - Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`

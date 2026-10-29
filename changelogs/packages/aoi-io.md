@@ -1,5 +1,10 @@
 # @repo/aoi-io
 
+## 0.7.0
+
+- Import Add-On Instructions from Logix Designer .L5X files, or pick one from a whole project, and finish in Studio any logic it can't run yet
+- Export as .L5X now keeps the descriptions on array elements
+
 ## 0.6.0
 
 - Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`

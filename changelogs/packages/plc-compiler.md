@@ -1,5 +1,9 @@
 # @repo/plc-compiler
 
+## 0.9.0
+
+- Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects
+
 ## 0.8.0
 
 - Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`

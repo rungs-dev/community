@@ -1,5 +1,11 @@
 # studio-assist
 
+## 0.2.15
+
+- Import Add-On Instructions from Logix Designer .L5X files, or pick one from a whole project, and finish in Studio any logic it can't run yet
+- Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects
+- Relay gives clearer, more reliable help with Studio
+
 ## 0.2.14
 
 - Relay can help with `STRING` tags, the string instructions and `SWPB`
