@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.16
+
+- Relay answers faster and more accurately inside exercises
+
 ## 0.2.15
 
 - Import Add-On Instructions from Logix Designer .L5X files, or pick one from a whole project, and finish in Studio any logic it can't run yet

@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.10.1
+
+- The Run Hours exercise now warns that a self-restarting timer loses time, and that some tests scan once a second
+
 ## 0.10.0
 
 - Add byte-order exercises to the Bit Manipulation course, from swapping a register's bytes to reading a `REAL` from two Modbus registers

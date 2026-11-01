@@ -1,5 +1,9 @@
 # web
 
+## 1.10.1
+
+- The Run Hours exercise now warns that a self-restarting timer loses time, and that some tests scan once a second
+
 ## 1.10.0
 
 - Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects
