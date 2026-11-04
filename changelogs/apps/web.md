@@ -1,5 +1,10 @@
 # web
 
+## 1.11.0
+
+- Delete your account from the new Account page
+- Add group plans: buy seats on the pricing page, invite learners, follow their progress and reuse seats for each new class
+
 ## 1.10.1
 
 - The Run Hours exercise now warns that a self-restarting timer loses time, and that some tests scan once a second

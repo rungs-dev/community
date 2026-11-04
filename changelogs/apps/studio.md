@@ -1,5 +1,9 @@
 # studio
 
+## 1.7.1
+
+- Learners in a group get every exercise unlocked, and the avatar menu now links to your Account page
+
 ## 1.7.0
 
 - Import Add-On Instructions from Logix Designer .L5X files, or pick one from a whole project
