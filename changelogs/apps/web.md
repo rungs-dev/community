@@ -1,5 +1,9 @@
 # web
 
+## 1.11.1
+
+- Group managers who can't leave or delete their account now see why straight away, and leaving a group asks you to type leave to confirm
+
 ## 1.11.0
 
 - Delete your account from the new Account page
