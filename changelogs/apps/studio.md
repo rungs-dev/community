@@ -1,5 +1,11 @@
 # studio
 
+## 1.8.0
+
+- Open a project in Studio from a link that carries the whole program
+- A `.rungs` file Studio can't open now says what to fix in a dialog, with a button to copy the details
+- Stop Studio reloading itself on a slow connection, and show Loading… until your program can run
+
 ## 1.7.1
 
 - Learners in a group get every exercise unlocked, and the avatar menu now links to your Account page

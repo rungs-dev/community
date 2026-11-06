@@ -1,5 +1,9 @@
 # web
 
+## 1.12.0
+
+- Document the `.rungs` file format, so you or an AI tool can write a project by hand and open it in Studio
+
 ## 1.11.1
 
 - Group managers who can't leave or delete their account now see why straight away, and leaving a group asks you to type leave to confirm

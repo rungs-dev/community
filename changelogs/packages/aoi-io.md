@@ -1,5 +1,9 @@
 # @repo/aoi-io
 
+## 0.7.1
+
+- A `.rungs` file Studio can't open now says what to fix in a dialog, with a button to copy the details
+
 ## 0.7.0
 
 - Import Add-On Instructions from Logix Designer .L5X files, or pick one from a whole project, and finish in Studio any logic it can't run yet
