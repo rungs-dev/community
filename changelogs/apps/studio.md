@@ -1,5 +1,12 @@
 # studio
 
+## 1.8.1
+
+- Studio now warns about empty branch paths, which always pass power
+- Ladder errors about an empty or wrongly filled operand now name the field you see and say what it needs, such as `XIC is empty. It needs a BOOL tag.`
+- Dragging an empty branch path onto the rung no longer deletes the branch, and the next instruction after Add branch goes after the branch
+- Hover the add rung, add branch and add branch level buttons to see what each one does
+
 ## 1.8.0
 
 - Open a project in Studio from a link that carries the whole program

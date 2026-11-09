@@ -1,5 +1,10 @@
 # @repo/ladder-editor
 
+## 0.15.1
+
+- Dragging an empty branch path onto the rung no longer deletes the branch, and the next instruction after Add branch goes after the branch
+- Hover the add rung, add branch and add branch level buttons to see what each one does
+
 ## 0.15.0
 
 - Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects

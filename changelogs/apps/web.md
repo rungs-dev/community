@@ -1,5 +1,9 @@
 # web
 
+## 1.12.1
+
+- Explain how to build and edit branches in the ladder editor, in the docs and in Relay
+
 ## 1.12.0
 
 - Document the `.rungs` file format, so you or an AI tool can write a project by hand and open it in Studio

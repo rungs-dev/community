@@ -1,5 +1,10 @@
 # @repo/plc-compiler
 
+## 0.9.1
+
+- Studio now warns about empty branch paths, which always pass power
+- Ladder errors about an empty or wrongly filled operand now name the field you see and say what it needs, such as `XIC is empty. It needs a BOOL tag.`
+
 ## 0.9.0
 
 - Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects

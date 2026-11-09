@@ -1,5 +1,9 @@
 # @repo/plc-core
 
+## 0.14.1
+
+- Ladder errors about an empty or wrongly filled operand now name the field you see and say what it needs, such as `XIC is empty. It needs a BOOL tag.`
+
 ## 0.14.0
 
 - Add the `MEQ` (Mask Equal To) ladder instruction, which compares two numbers in only the bits a mask selects

@@ -1,5 +1,9 @@
 # studio-assist
 
+## 0.2.17
+
+- Explain how to build and edit branches in the ladder editor, in the docs and in Relay
+
 ## 0.2.16
 
 - Relay answers faster and more accurately inside exercises
