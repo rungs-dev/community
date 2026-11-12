@@ -1,5 +1,10 @@
 # @repo/ui
 
+## 0.2.2
+
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+- Move through the Tags table with the keyboard, resize or hide its columns, and edit a description without stopping the simulation
+
 ## 0.2.1
 
 - Finish a course to get a Certificate of Completion you can add to LinkedIn, share or print

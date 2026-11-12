@@ -1,5 +1,9 @@
 # @repo/test-runner
 
+## 0.7.1
+
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+
 ## 0.7.0
 
 - Add `STRING` tags, text in quotes, and the string instructions, such as `CONCAT`, `FIND`, `MID`, `DTOS` and `STOD`

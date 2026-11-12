@@ -1,5 +1,9 @@
 # @repo/exercise-catalog
 
+## 0.10.2
+
+- Bit Manipulation and register exercises open with their values in Binary, Hex or ASCII
+
 ## 0.10.1
 
 - The Run Hours exercise now warns that a self-restarting timer loses time, and that some tests scan once a second

@@ -1,5 +1,11 @@
 # @repo/ladder-editor
 
+## 0.15.2
+
+- Ladder rungs on a phone use smaller text and tighter spacing, so more of a rung fits on screen
+- Ladder tag lists, instruction lists and error tooltips stay on screen on narrow screens
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+
 ## 0.15.1
 
 - Dragging an empty branch path onto the rung no longer deletes the branch, and the next instruction after Add branch goes after the branch

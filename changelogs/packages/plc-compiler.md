@@ -1,5 +1,9 @@
 # @repo/plc-compiler
 
+## 0.9.2
+
+- A `REAL` smaller than 1.17549435e-38 now counts as 0 in calculations and compares, as it does on a real controller
+
 ## 0.9.1
 
 - Studio now warns about empty branch paths, which always pass power

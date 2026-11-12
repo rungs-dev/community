@@ -1,5 +1,17 @@
 # studio
 
+## 1.9.0
+
+- Paste tag rows copied from the Edit Tags tab of Logix Designer into the Tags table
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+- An array tag's usage list offers only Local and InOut, so changing its usage keeps it an array
+- Bit Manipulation and register exercises open with their values in Binary, Hex or ASCII
+- Ladder rungs on a phone use smaller text and tighter spacing, so more of a rung fits on screen
+- Ladder tag lists, instruction lists and error tooltips stay on screen on narrow screens
+- Accept more ways to write a number: `-16#FF`, `- 5` and `5.` in ladder, `5.` in a `CPT` or `CMP` expression, and a leading `+` in Structured Text
+- A `REAL` smaller than 1.17549435e-38 now counts as 0 in calculations and compares, as it does on a real controller
+- Move through the Tags table with the keyboard, resize or hide its columns, and edit a description without stopping the simulation
+
 ## 1.8.1
 
 - Studio now warns about empty branch paths, which always pass power

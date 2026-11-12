@@ -1,5 +1,9 @@
 # @repo/aoi-io
 
+## 0.7.2
+
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+
 ## 0.7.1
 
 - A `.rungs` file Studio can't open now says what to fix in a dialog, with a button to copy the details

@@ -1,5 +1,10 @@
 # web
 
+## 1.12.2
+
+- Paste tag rows copied from the Edit Tags tab of Logix Designer into the Tags table
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+
 ## 1.12.1
 
 - Explain how to build and edit branches in the ladder editor, in the docs and in Relay

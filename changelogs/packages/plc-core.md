@@ -1,5 +1,11 @@
 # @repo/plc-core
 
+## 0.15.0
+
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+- An array tag's usage list offers only Local and InOut, so changing its usage keeps it an array
+- Accept more ways to write a number: `-16#FF`, `- 5` and `5.` in ladder, `5.` in a `CPT` or `CMP` expression, and a leading `+` in Structured Text
+
 ## 0.14.1
 
 - Ladder errors about an empty or wrongly filled operand now name the field you see and say what it needs, such as `XIC is empty. It needs a BOOL tag.`

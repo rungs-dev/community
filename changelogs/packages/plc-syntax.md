@@ -1,5 +1,10 @@
 # @repo/plc-syntax
 
+## 0.3.4
+
+- Accept more ways to write a number: `-16#FF`, `- 5` and `5.` in ladder, `5.` in a `CPT` or `CMP` expression, and a leading `+` in Structured Text
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+
 ## 0.3.3
 
 - Renaming a tag changes only its uses in ST, LD and tests, never the same word in a comment or quoted text

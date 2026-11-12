@@ -1,5 +1,10 @@
 # studio-assist
 
+## 0.2.18
+
+- Paste tag rows copied from the Edit Tags tab of Logix Designer into the Tags table
+- Show and type tag values in Hex, Binary, Octal, ASCII or Exponential, chosen per tag in the Tags table's new Style column
+
 ## 0.2.17
 
 - Explain how to build and edit branches in the ladder editor, in the docs and in Relay
